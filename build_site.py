@@ -1,5 +1,49 @@
 import json
 import os
+import re
+import urllib.request
+import urllib.parse
+
+def extract_vehicle_image(url, timeout=10):
+    """Fetch a car listing page and extract the main vehicle image URL."""
+    try:
+        req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+        with urllib.request.urlopen(req, timeout=timeout) as resp:
+            html = resp.read().decode('utf-8', errors='ignore')
+        
+        # Find img src attributes
+        img_matches = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', html)
+        
+        # Filter for vehicle images
+        vehicle_images = []
+        for img in img_matches:
+            img_lower = img.lower()
+            if any(kw in img_lower for kw in ['dealer.com', 'vehicle', 'exterior', 'photo', 'pic', 'inventory', 'img_']):
+                if 'w=410' not in img and 'garage.png' not in img:
+                    vehicle_images.append(img)
+        
+        if vehicle_images:
+            # Prefer dealer.com images
+            for img in vehicle_images:
+                if 'dealer.com' in img.lower():
+                    return img
+            return vehicle_images[0]
+    except Exception as e:
+        print(f"  Warning: Could not fetch {url}: {e}")
+    return None
+
+def ensure_photo_urls(cars):
+    """Check each car for placeholder images and try to extract real ones."""
+    for car in cars:
+        photo_url = car.get('photo_url', '')
+        if 'craigslist' in photo_url or 'placeholder' in photo_url or not photo_url:
+            print(f"Extracting image for: {car['name']}")
+            new_url = extract_vehicle_image(car.get('url', ''))
+            if new_url:
+                car['photo_url'] = new_url
+                print(f"  Found: {new_url}")
+            else:
+                print(f"  No image found, keeping placeholder")
 
 HTML_TEMPLATE = """<!DOCTYPE html>
 <html lang="en">
@@ -292,6 +336,13 @@ def build_site():
 
     with open(json_path, 'r', encoding='utf-8') as f:
         cars = json.load(f)
+
+    # Extract real vehicle images for any placeholder URLs
+    ensure_photo_urls(cars)
+
+    # Save updated JSON with real image URLs
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(cars, f, indent=2)
 
     # Accent colors array
     colors = ['c1', 'c2', 'c3', 'c4', 'c5']
