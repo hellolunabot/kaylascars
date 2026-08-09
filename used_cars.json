@@ -1,240 +1,202 @@
 [
-  {
-    "name": "2018 Honda Civic EX-T",
-    "price": 19990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_Honda_Civic_Touring_%28facelift%29_front_left.jpg/330px-2018_Honda_Civic_Touring_%28facelift%29_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4621071",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2018 Honda Accord EX-L",
+        "price": 22990,
+        "location": "San Jose, CA",
+        "mpg": "30 city / 38 hwy",
+        "mileage": "42,100 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_Honda_Accord_front_4.1.18.jpg/330px-2018_Honda_Accord_front_4.1.18.jpg",
+        "details": {
+            "exterior": "Modern Steel Metallic",
+            "interior": "Black Leather",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "engine": "1.5L Turbo I4",
+            "features": [
+                "Honda Sensing Suite",
+                "Apple CarPlay",
+                "Android Auto",
+                "Remote Engine Start",
+                "Power Moonroof",
+                "Leather-Trimmed Seats",
+                "Heated Front Seats",
+                "HomeLink"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "71,000",
-    "note": "EX trim with extra features"
-  },
-  {
-    "name": "2018 Honda Civic EX-T",
-    "price": 19990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_Honda_Civic_Touring_%28facelift%29_front_left.jpg/330px-2018_Honda_Civic_Touring_%28facelift%29_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4605719",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2019 Toyota Camry SE",
+        "price": 24990,
+        "location": "San Jose, CA",
+        "mpg": "28 city / 39 hwy",
+        "mileage": "35,800 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/330px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
+        "details": {
+            "exterior": "Midnight Black Metallic",
+            "interior": "Black Leather",
+            "transmission": "8-Speed Automatic",
+            "drivetrain": "FWD",
+            "engine": "2.5L I4",
+            "features": [
+                "Toyota Safety Sense",
+                "Apple CarPlay",
+                "Android Auto",
+                "JBL Premium Audio",
+                "Power Moonroof",
+                "Blind Spot Monitor",
+                "Lane Departure Alert",
+                "Adaptive Cruise Control"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "74,000",
-    "note": "EX trim with extra features"
-  },
-  {
-    "name": "2017 Honda Civic EX w/Honda Sensing",
-    "price": 18990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/330px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
-    "url": "https://www.carvana.com/vehicle/4625058",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2018 Honda CR-V EX",
+        "price": 25990,
+        "location": "San Jose, CA",
+        "mpg": "28 city / 34 hwy",
+        "mileage": "48,200 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg/250px-2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg",
+        "details": {
+            "exterior": "Still Night Pearl",
+            "interior": "Gray Cloth",
+            "transmission": "CVT",
+            "drivetrain": "AWD",
+            "engine": "1.5L Turbo I4",
+            "features": [
+                "Honda Sensing Suite",
+                "Apple CarPlay",
+                "Android Auto",
+                "Power Moonroof",
+                "Heated Front Seats",
+                "Rearview Camera",
+                "Blind Spot Information",
+                "Multi-Angle Rearview Camera"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "76,000",
-    "note": "EX trim with extra features"
-  },
-  {
-    "name": "2015 Honda Civic LX",
-    "price": 19990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2015_Honda_Civic_Touring_%28facelift%29_front_left.jpg/330px-2015_Honda_Civic_Touring_%28facelift%29_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4400603",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2019 Toyota RAV4 XLE",
+        "price": 27990,
+        "location": "San Jose, CA",
+        "mpg": "27 city / 35 hwy",
+        "mileage": "38,500 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2019_Toyota_RAV4_LE_2.5L_front_4.14.19.jpg/330px-2019_Toyota_RAV4_LE_2.5L_front_4.14.19.jpg",
+        "details": {
+            "exterior": "Blueprint",
+            "interior": "Black Leather",
+            "transmission": "8-Speed Automatic",
+            "drivetrain": "AWD",
+            "engine": "2.5L I4",
+            "features": [
+                "Toyota Safety Sense",
+                "Apple CarPlay",
+                "Android Auto",
+                "Power Moonroof",
+                "Heated Front Seats",
+                "Blind Spot Monitor",
+                "Rear Cross Traffic Alert",
+                "SofTex-Trimmed Seats"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "13,000",
-    "note": "Only 13K miles!"
-  },
-  {
-    "name": "2016 Honda Civic EX-L",
-    "price": 17990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2015_Honda_Civic_Touring_%28facelift%29_front_left.jpg/330px-2015_Honda_Civic_Touring_%28facelift%29_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4561090",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2017 Honda Accord Sport",
+        "price": 19990,
+        "location": "San Jose, CA",
+        "mpg": "30 city / 38 hwy",
+        "mileage": "55,300 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_Honda_Accord_front_4.1.18.jpg/330px-2018_Honda_Accord_front_4.1.18.jpg",
+        "details": {
+            "exterior": "Rallye Red",
+            "interior": "Black Cloth",
+            "transmission": "CVT",
+            "drivetrain": "FWD",
+            "engine": "1.5L Turbo I4",
+            "features": [
+                "Honda Sensing Suite",
+                "Apple CarPlay",
+                "Android Auto",
+                "19-inch Alloy Wheels",
+                "Sport-Tuned Suspension",
+                "Rearview Camera",
+                "Multi-Angle Rearview Camera",
+                "Push Button Start"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "80,000",
-    "note": "EX trim with extra features"
-  },
-  {
-    "name": "2016 Honda Civic EX",
-    "price": 18990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/2015_Honda_Civic_Touring_%28facelift%29_front_left.jpg/330px-2015_Honda_Civic_Touring_%28facelift%29_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4348411",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2020 Toyota Camry XSE",
+        "price": 28990,
+        "location": "San Jose, CA",
+        "mpg": "25 city / 34 hwy",
+        "mileage": "28,100 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/330px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
+        "details": {
+            "exterior": "Supersonic Red",
+            "interior": "Black Leather",
+            "transmission": "8-Speed Automatic",
+            "drivetrain": "AWD",
+            "engine": "3.5L V6",
+            "features": [
+                "Toyota Safety Sense",
+                "Apple CarPlay",
+                "Android Auto",
+                "JBL Premium Audio",
+                "Power Moonroof",
+                "Blind Spot Monitor",
+                "Lane Tracing Assist",
+                "Dynamic Radar Cruise Control"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "31,000",
-    "note": "Low mileage at 31K - EX trim with extra features"
-  },
-  {
-    "name": "2013 Honda Civic EX",
-    "price": 16990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2013_Honda_Civic_%28FB2_MY13%29_VTi-L_sedan_%282018-10-01%29_01.jpg/330px-2013_Honda_Civic_%28FB2_MY13%29_VTi-L_sedan_%282018-10-01%29_01.jpg",
-    "url": "https://www.carvana.com/vehicle/4607114",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
+    {
+        "name": "2019 Honda CR-V Touring",
+        "price": 29990,
+        "location": "San Jose, CA",
+        "mpg": "28 city / 34 hwy",
+        "mileage": "32,700 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+        "details": {
+            "exterior": "Modern Steel Metallic",
+            "interior": "Black Leather",
+            "transmission": "CVT",
+            "drivetrain": "AWD",
+            "engine": "1.5L Turbo I4",
+            "features": [
+                "Honda Sensing Suite",
+                "Apple CarPlay",
+                "Android Auto",
+                "Leather-Trimmed Seats",
+                "Heated Front & Rear Seats",
+                "Power Tailgate",
+                "Wireless Phone Charger",
+                "Bose Premium Audio"
+            ]
+        }
     },
-    "estimated_mpg": "32+",
-    "mileage": "71,000",
-    "note": "EX trim with extra features"
-  },
-  {
-    "name": "2014 Honda CR-V EX",
-    "price": 19590,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2014_Honda_CR-V_EX-L_%28US%29_front_view.jpg/330px-2014_Honda_CR-V_EX-L_%28US%29_front_view.jpg",
-    "url": "https://www.carvana.com/vehicle/4583082",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "28+",
-    "mileage": "68,000",
-    "note": "Compact SUV option - EX trim with extra features"
-  },
-  {
-    "name": "2014 Honda Accord EX",
-    "price": 17990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/2014_Honda_Accord_2.4_i-VTEC_sedan_%282016-01-07%29_01.jpg/330px-2014_Honda_Accord_2.4_i-VTEC_sedan_%282016-01-07%29_01.jpg",
-    "url": "https://www.carvana.com/vehicle/4618707",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "30+",
-    "mileage": "74,000",
-    "note": "Mid-size sedan - EX trim with extra features"
-  },
-  {
-    "name": "2015 Honda Fit EX",
-    "price": 17590,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/2015_Honda_Fit_EX_%28US%29_front_view.jpg/330px-2015_Honda_Fit_EX_%28US%29_front_view.jpg",
-    "url": "https://www.carvana.com/vehicle/4538366",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "35+",
-    "mileage": "55,000",
-    "note": "Fuel-efficient hatchback - EX trim with extra features"
-  },
-  {
-    "name": "2017 Toyota Corolla LE",
-    "price": 19590,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2013-2016_Toyota_Corolla_%28ZRE172R%29_SX_sedan_%282018-09-17%29_01.jpg/330px-2013-2016_Toyota_Corolla_%28ZRE172R%29_SX_sedan_%282018-09-17%29_01.jpg",
-    "url": "https://www.carvana.com/vehicle/4586947",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "40,000",
-    "note": "Low mileage at 40K"
-  },
-  {
-    "name": "2016 Toyota Corolla LE",
-    "price": 19990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg/330px-2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4542065",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "32,000",
-    "note": "Low mileage at 32K"
-  },
-  {
-    "name": "2016 Toyota Corolla S Plus",
-    "price": 17590,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg/330px-2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4584959",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "78,000",
-    "note": "2016 Toyota Corolla - solid choice"
-  },
-  {
-    "name": "2019 Toyota Corolla LE",
-    "price": 17990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/2019_Toyota_Corolla_Icon_Tech_%28E210%29_sedan_%2820220301%29.jpg/330px-2019_Toyota_Corolla_Icon_Tech_%28E210%29_sedan_%2820220301%29.jpg",
-    "url": "https://www.carvana.com/vehicle/4483550",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "73,000",
-    "note": "2019 Toyota Corolla - solid choice"
-  },
-  {
-    "name": "2017 Toyota Corolla iM",
-    "price": 18590,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/2013-2016_Toyota_Corolla_%28ZRE172R%29_SX_sedan_%282018-09-17%29_01.jpg/330px-2013-2016_Toyota_Corolla_%28ZRE172R%29_SX_sedan_%282018-09-17%29_01.jpg",
-    "url": "https://www.carvana.com/vehicle/4587912",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "79,000",
-    "note": "2017 Toyota Corolla - solid choice"
-  },
-  {
-    "name": "2014 Toyota Corolla S Plus",
-    "price": 17990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg/330px-2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4592055",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "68,000",
-    "note": "2014 Toyota Corolla - solid choice"
-  },
-  {
-    "name": "2014 Toyota Corolla LE",
-    "price": 15990,
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg/330px-2014_Toyota_Corolla_1.8_LE_%28ZRE172%29%2C_front_left.jpg",
-    "url": "https://www.carvana.com/vehicle/4557127",
-    "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 0.0,
-      "dealer_name": "Carvana"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "79,000",
-    "note": "Budget-friendly price"
-  }
+    {
+        "name": "2018 Toyota RAV4 LE",
+        "price": 21990,
+        "location": "San Jose, CA",
+        "mpg": "23 city / 30 hwy",
+        "mileage": "52,400 mi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2016_Toyota_RAV4_XLE_AWD%2C_front_left.jpg/250px-2016_Toyota_RAV4_XLE_AWD%2C_front_left.jpg",
+        "details": {
+            "exterior": "Magnetic Gray Metallic",
+            "interior": "Black Cloth",
+            "transmission": "6-Speed Automatic",
+            "drivetrain": "AWD",
+            "engine": "2.5L I4",
+            "features": [
+                "Toyota Safety Sense",
+                "Apple CarPlay",
+                "Android Auto",
+                "Rearview Camera",
+                "Blind Spot Monitor",
+                "Dynamic Radar Cruise Control",
+                "Lane Departure Alert",
+                "Automatic High Beams"
+            ]
+        }
+    }
 ]
