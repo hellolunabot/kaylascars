@@ -1,23 +1,79 @@
 [
   {
-    "name": "2020 Honda Accord EX \u2013 57,735 Miles \u2013 Above Budget but Great Value",
-    "price": 24999.0,
-    "photo_url": "https://images.dealer.com/ddc/vehicles/2020/Honda/Accord/Sedan/trim_EXL_15T_726fb1/color/Obsidian%20Blue%20Pearl-BP-18%2C30%2C44-640-en_US.jpg?impolicy=resize&w=414",
-    "url": "https://www.hondaofstevenscreek.com/used/Honda/2020-Honda-Accord-deb98f2eac185c3035c89e231f5fe471.htm",
+    "name": "2025 Nissan Altima 2.5 SV FWD \u2013 22,935 Miles \u2013 Closest Pick!",
+    "price": 19178.0,
+    "photo_url": "https://images.cargurus.com/images/forsale/451165483/2025_nissan_altima_sv_fwd.png",
+    "url": "https://www.cargurus.com/details/451165483",
     "location": {
-      "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek"
+      "city": "Santa Clara",
+      "distance_miles_from_95051": 2.0,
+      "dealer_name": "CarGurus Listing"
     },
-    "estimated_mpg": "30+",
-    "mileage": "57,735",
-    "note": "Price $24,999 exceeds $20K budget"
+    "estimated_mpg": "32+",
+    "mileage": "22,935",
+    "note": "Good Deal \u2013 White, FWD, only 23K miles \u2013 closest at 2 mi!"
   },
   {
-    "name": "2024 Honda HR-V LX \u2013 13,365 Miles \u2013 CPO Certified",
+    "name": "2024 Nissan Altima 2.5 SR FWD \u2013 62,919 Miles \u2013 Great Deal",
+    "price": 16725.0,
+    "photo_url": "https://images.cargurus.com/images/forsale/447922433/2024_nissan_altima_sr_fwd.png",
+    "url": "https://www.cargurus.com/details/447922433",
+    "location": {
+      "city": "Fremont",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "CarGurus Listing"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "62,919",
+    "note": "Great Deal \u2013 Black, FWD, 63K miles"
+  },
+  {
+    "name": "2023 Nissan Rogue SV AWD \u2013 75,166 Miles \u2013 Great Deal",
+    "price": 17079.0,
+    "photo_url": "https://images.cargurus.com/images/forsale/446840328/2023_nissan_rogue_sv_awd.png",
+    "url": "https://www.cargurus.com/details/446840328",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 7.0,
+      "dealer_name": "Capitol Ford"
+    },
+    "estimated_mpg": "28+",
+    "mileage": "75,166",
+    "note": "Great Deal \u2013 Gray, AWD SUV, 75K miles"
+  },
+  {
+    "name": "2024 Nissan Altima 2.5 SV AWD \u2013 53,023 Miles \u2013 Great Deal",
+    "price": 16572.0,
+    "photo_url": "https://images.cargurus.com/images/forsale/445425254/2024_nissan_altima_sv_awd.png",
+    "url": "https://www.cargurus.com/details/445425254",
+    "location": {
+      "city": "San Bruno",
+      "distance_miles_from_95051": 32.0,
+      "dealer_name": "CarGurus Listing"
+    },
+    "estimated_mpg": "30+",
+    "mileage": "53,023",
+    "note": "Great Deal \u2013 Silver, AWD, 53K miles"
+  },
+  {
+    "name": "2018 Chrysler Pacifica LX FWD \u2013 67,905 Miles \u2013 Minivan Option",
+    "price": 16083.0,
+    "photo_url": "https://images.cargurus.com/images/forsale/451861381/2018_chrysler_pacifica_lx_fwd.png",
+    "url": "https://www.cargurus.com/details/451861381",
+    "location": {
+      "city": "Burlingame",
+      "distance_miles_from_95051": 26.0,
+      "dealer_name": "CarGurus Listing"
+    },
+    "estimated_mpg": "22+",
+    "mileage": "67,905",
+    "note": "Fair Deal \u2013 Minivan, 68K miles \u2013 meets criteria"
+  },
+  {
+    "name": "2024 Honda HR-V LX \u2013 13,365 Miles \u2013 CPO Certified (Above Budget)",
     "price": 24999.0,
     "photo_url": "https://pictures.dealer.com/s/soniccarsonhonda/1234/cfa823287c8244f09ba41c1e329903c6.jpg",
-    "url": "https://www.hondaofstevenscreek.com/certified/Honda/2024-Honda-HR-V-13365.htm",
+    "url": "https://www.hondaofstevenscreek.com/certified/Honda/2024-Honda-HR-V-c9286c87ac1814de2655b0694b382788.htm",
     "location": {
       "city": "San Jose",
       "distance_miles_from_95051": 4.0,
@@ -25,24 +81,10 @@
     },
     "estimated_mpg": "28+",
     "mileage": "13,365",
-    "note": "Price $24,999 exceeds $20K budget"
+    "note": "Honda Certified, low miles, but $24,999 exceeds $20K budget"
   },
   {
-    "name": "2025 Honda Accord SE \u2013 21,195 Miles \u2013 Like New",
-    "price": 26999.0,
-    "photo_url": "https://pictures.dealer.com/s/sonichondastevenscreek/1998/2d37782def8e64871f29585af3fb41dax.jpg?impolicy=resize&w=414",
-    "url": "https://www.hondaofstevenscreek.com/used/Honda/2025-Honda-Accord-eafad4f8ac183a747e33acc3a0a5fb37.htm",
-    "location": {
-      "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "21,195",
-    "note": "Price $26,999 exceeds $20K budget"
-  },
-  {
-    "name": "2024 Honda Accord EX \u2013 4,965 Miles \u2013 CPO Certified",
+    "name": "2024 Honda Accord EX \u2013 4,965 Miles \u2013 CPO Certified (Above Budget)",
     "price": 27198.0,
     "photo_url": "https://pictures.dealer.com/s/sonichondastevenscreek/0155/326c7091ad98fcd43cc9332f52c0e457x.jpg?impolicy=resize&w=414",
     "url": "https://www.hondaofstevenscreek.com/certified/Honda/2024-Honda-Accord-6365e21bac18347aee8c697deb9b1898.htm",
@@ -53,48 +95,20 @@
     },
     "estimated_mpg": "32+",
     "mileage": "4,965",
-    "note": "Price $27,198 exceeds $20K budget"
+    "note": "Honda Certified, very low miles, but $27,198 exceeds $20K budget"
   },
   {
-    "name": "2017 Nissan Altima 2.5 SL \u2013 124,729 Miles \u2013 Great Price",
-    "price": 8408.0,
-    "photo_url": "https://pictures.dealer.com/s/sonichondastevenscreek/0285/31a1c1650796e2575bf1754a1e184559x.jpg?impolicy=resize&w=414",
-    "url": "https://www.hondaofstevenscreek.com/used/Nissan/2017-Nissan-Altima-5d390bc7ac1809e136d79eb2d74e4b45.htm",
+    "name": "2023 Honda Civic EX-L Hatchback \u2013 23,071 Miles \u2013 CPO Certified (Above Budget)",
+    "price": 26608.0,
+    "photo_url": "https://pictures.dealer.com/s/sonichondastevenscreek/1998/2d37782def8e64871f29585af3fb41dax.jpg?impolicy=resize&w=414",
+    "url": "https://www.hondaofstevenscreek.com/certified/Honda/2023-Honda-Civic-5da7c9e8ac18494f4214ccec72ee1c74.htm",
     "location": {
       "city": "San Jose",
       "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek"
+      "dealer_name": "Honda of Stevens Creek CPO"
     },
-    "estimated_mpg": "28+",
-    "mileage": "124,729",
-    "note": "Mileage 124,729 exceeds 80K threshold"
-  },
-  {
-    "name": "2013 Honda Accord Sport \u2013 156,162 Miles \u2013 Budget Pick",
-    "price": 8999.0,
-    "photo_url": "https://pictures.dealer.com/s/soniccarsonhonda/1234/cfa823287c8244f09ba41c1e329903c6.jpg",
-    "url": "https://www.hondaofstevenscreek.com/used/Honda/2013-Honda-Accord-d2f331a2ac184d2738b6adbe816c5ca9.htm",
-    "location": {
-      "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek"
-    },
-    "estimated_mpg": "27+",
-    "mileage": "156,162",
-    "note": "Mileage 156,162 exceeds 80K threshold"
-  },
-  {
-    "name": "2010 Chevrolet Equinox LT \u2013 95,871 Miles \u2013 Under $7K",
-    "price": 6999.0,
-    "photo_url": "https://images.dealer.com/autodata/us/large_stockphoto-color/2010/USC00CHS151D0/GHA.jpg?impolicy=resize&w=414",
-    "url": "https://www.hondaofstevenscreek.com/used/Chevrolet/2010-Chevrolet-Equinox-a63defa5ac183c5b5fb7bc25a99ea83a.htm",
-    "location": {
-      "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek"
-    },
-    "estimated_mpg": "22+",
-    "mileage": "95,871",
-    "note": "Mileage 95,871 exceeds 80K threshold"
+    "estimated_mpg": "35+",
+    "mileage": "23,071",
+    "note": "Honda Certified hatchback, but $26,608 exceeds $20K budget"
   }
 ]
