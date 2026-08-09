@@ -2,7 +2,7 @@
   {
     "name": "2017 Honda Civic EX-L w/Navigation",
     "price": 19990,
-    "photo_url": "https://images.carvana.com/image/4490179/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4490179/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4490179",
     "location": {
       "city": "San Jose",
@@ -16,7 +16,7 @@
   {
     "name": "2018 Honda Civic EX-T",
     "price": 19990,
-    "photo_url": "https://images.carvana.com/image/4621071/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4621071/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4621071",
     "location": {
       "city": "San Jose",
@@ -30,7 +30,7 @@
   {
     "name": "2013 Honda Civic EX",
     "price": 16990,
-    "photo_url": "https://images.carvana.com/image/4607114/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4607114/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4607114",
     "location": {
       "city": "San Jose",
@@ -44,7 +44,7 @@
   {
     "name": "2015 Honda Civic LX",
     "price": 19990,
-    "photo_url": "https://images.carvana.com/image/4400603/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4400603/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4400603",
     "location": {
       "city": "San Jose",
@@ -58,7 +58,7 @@
   {
     "name": "2014 Honda Accord EX",
     "price": 17990,
-    "photo_url": "https://images.carvana.com/image/4618707/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4618707/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4618707",
     "location": {
       "city": "San Jose",
@@ -72,7 +72,7 @@
   {
     "name": "2017 Toyota Corolla LE",
     "price": 19590,
-    "photo_url": "https://images.carvana.com/image/4586947/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4586947/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4586947",
     "location": {
       "city": "San Jose",
@@ -86,7 +86,7 @@
   {
     "name": "2017 Toyota Camry SE",
     "price": 19590,
-    "photo_url": "https://images.carvana.com/image/4546211/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4546211/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4546211",
     "location": {
       "city": "San Jose",
@@ -100,7 +100,7 @@
   {
     "name": "2016 Toyota Corolla S Plus",
     "price": 17590,
-    "photo_url": "https://images.carvana.com/image/4584959/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4584959/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4584959",
     "location": {
       "city": "San Jose",
@@ -114,7 +114,7 @@
   {
     "name": "2018 Toyota C-HR XLE",
     "price": 18990,
-    "photo_url": "https://images.carvana.com/image/4527923/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4527923/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4527923",
     "location": {
       "city": "San Jose",
@@ -128,7 +128,7 @@
   {
     "name": "2017 Toyota Camry LE",
     "price": 18590,
-    "photo_url": "https://images.carvana.com/image/4595115/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4595115/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4595115",
     "location": {
       "city": "San Jose",
@@ -142,7 +142,7 @@
   {
     "name": "2015 Toyota RAV4 LE",
     "price": 19990,
-    "photo_url": "https://images.carvana.com/image/4598095/exterior/front/left",
+    "photo_url": "https://images.carvana.com/image/4598095/exterior/front/left.jpg",
     "url": "https://www.carvana.com/vehicle/4598095",
     "location": {
       "city": "San Jose",
