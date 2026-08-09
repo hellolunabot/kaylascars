@@ -1,202 +1,141 @@
 [
-    {
-        "name": "2018 Honda Accord EX-L",
-        "price": 22990,
-        "location": "San Jose, CA",
-        "mpg": "30 city / 38 hwy",
-        "mileage": "42,100 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_Honda_Accord_front_4.1.18.jpg/330px-2018_Honda_Accord_front_4.1.18.jpg",
-        "details": {
-            "exterior": "Modern Steel Metallic",
-            "interior": "Black Leather",
-            "transmission": "CVT",
-            "drivetrain": "FWD",
-            "engine": "1.5L Turbo I4",
-            "features": [
-                "Honda Sensing Suite",
-                "Apple CarPlay",
-                "Android Auto",
-                "Remote Engine Start",
-                "Power Moonroof",
-                "Leather-Trimmed Seats",
-                "Heated Front Seats",
-                "HomeLink"
-            ]
-        }
+  {
+    "name": "2018 Honda CR-V EX-L AWD",
+    "price": 19590,
+    "location": {
+      "city": "San Carlos, CA",
+      "distance_miles_from_95051": 3
     },
-    {
-        "name": "2019 Toyota Camry SE",
-        "price": 24990,
-        "location": "San Jose, CA",
-        "mpg": "28 city / 39 hwy",
-        "mileage": "35,800 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/330px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
-        "details": {
-            "exterior": "Midnight Black Metallic",
-            "interior": "Black Leather",
-            "transmission": "8-Speed Automatic",
-            "drivetrain": "FWD",
-            "engine": "2.5L I4",
-            "features": [
-                "Toyota Safety Sense",
-                "Apple CarPlay",
-                "Android Auto",
-                "JBL Premium Audio",
-                "Power Moonroof",
-                "Blind Spot Monitor",
-                "Lane Departure Alert",
-                "Adaptive Cruise Control"
-            ]
-        }
-    },
-    {
-        "name": "2018 Honda CR-V EX",
-        "price": 25990,
-        "location": "San Jose, CA",
-        "mpg": "28 city / 34 hwy",
-        "mileage": "48,200 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg/250px-2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg",
-        "details": {
-            "exterior": "Still Night Pearl",
-            "interior": "Gray Cloth",
-            "transmission": "CVT",
-            "drivetrain": "AWD",
-            "engine": "1.5L Turbo I4",
-            "features": [
-                "Honda Sensing Suite",
-                "Apple CarPlay",
-                "Android Auto",
-                "Power Moonroof",
-                "Heated Front Seats",
-                "Rearview Camera",
-                "Blind Spot Information",
-                "Multi-Angle Rearview Camera"
-            ]
-        }
-    },
-    {
-        "name": "2019 Toyota RAV4 XLE",
-        "price": 27990,
-        "location": "San Jose, CA",
-        "mpg": "27 city / 35 hwy",
-        "mileage": "38,500 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/2019_Toyota_RAV4_LE_2.5L_front_4.14.19.jpg/330px-2019_Toyota_RAV4_LE_2.5L_front_4.14.19.jpg",
-        "details": {
-            "exterior": "Blueprint",
-            "interior": "Black Leather",
-            "transmission": "8-Speed Automatic",
-            "drivetrain": "AWD",
-            "engine": "2.5L I4",
-            "features": [
-                "Toyota Safety Sense",
-                "Apple CarPlay",
-                "Android Auto",
-                "Power Moonroof",
-                "Heated Front Seats",
-                "Blind Spot Monitor",
-                "Rear Cross Traffic Alert",
-                "SofTex-Trimmed Seats"
-            ]
-        }
-    },
-    {
-        "name": "2017 Honda Accord Sport",
-        "price": 19990,
-        "location": "San Jose, CA",
-        "mpg": "30 city / 38 hwy",
-        "mileage": "55,300 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2018_Honda_Accord_front_4.1.18.jpg/330px-2018_Honda_Accord_front_4.1.18.jpg",
-        "details": {
-            "exterior": "Rallye Red",
-            "interior": "Black Cloth",
-            "transmission": "CVT",
-            "drivetrain": "FWD",
-            "engine": "1.5L Turbo I4",
-            "features": [
-                "Honda Sensing Suite",
-                "Apple CarPlay",
-                "Android Auto",
-                "19-inch Alloy Wheels",
-                "Sport-Tuned Suspension",
-                "Rearview Camera",
-                "Multi-Angle Rearview Camera",
-                "Push Button Start"
-            ]
-        }
-    },
-    {
-        "name": "2020 Toyota Camry XSE",
-        "price": 28990,
-        "location": "San Jose, CA",
-        "mpg": "25 city / 34 hwy",
-        "mileage": "28,100 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg/330px-2018_Toyota_Camry_%28ASV70R%29_Ascent_sedan_%282018-08-27%29_01.jpg",
-        "details": {
-            "exterior": "Supersonic Red",
-            "interior": "Black Leather",
-            "transmission": "8-Speed Automatic",
-            "drivetrain": "AWD",
-            "engine": "3.5L V6",
-            "features": [
-                "Toyota Safety Sense",
-                "Apple CarPlay",
-                "Android Auto",
-                "JBL Premium Audio",
-                "Power Moonroof",
-                "Blind Spot Monitor",
-                "Lane Tracing Assist",
-                "Dynamic Radar Cruise Control"
-            ]
-        }
-    },
-    {
-        "name": "2019 Honda CR-V Touring",
-        "price": 29990,
-        "location": "San Jose, CA",
-        "mpg": "28 city / 34 hwy",
-        "mileage": "32,700 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
-        "details": {
-            "exterior": "Modern Steel Metallic",
-            "interior": "Black Leather",
-            "transmission": "CVT",
-            "drivetrain": "AWD",
-            "engine": "1.5L Turbo I4",
-            "features": [
-                "Honda Sensing Suite",
-                "Apple CarPlay",
-                "Android Auto",
-                "Leather-Trimmed Seats",
-                "Heated Front & Rear Seats",
-                "Power Tailgate",
-                "Wireless Phone Charger",
-                "Bose Premium Audio"
-            ]
-        }
-    },
-    {
-        "name": "2018 Toyota RAV4 LE",
-        "price": 21990,
-        "location": "San Jose, CA",
-        "mpg": "23 city / 30 hwy",
-        "mileage": "52,400 mi",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2016_Toyota_RAV4_XLE_AWD%2C_front_left.jpg/250px-2016_Toyota_RAV4_XLE_AWD%2C_front_left.jpg",
-        "details": {
-            "exterior": "Magnetic Gray Metallic",
-            "interior": "Black Cloth",
-            "transmission": "6-Speed Automatic",
-            "drivetrain": "AWD",
-            "engine": "2.5L I4",
-            "features": [
-                "Toyota Safety Sense",
-                "Apple CarPlay",
-                "Android Auto",
-                "Rearview Camera",
-                "Blind Spot Monitor",
-                "Dynamic Radar Cruise Control",
-                "Lane Departure Alert",
-                "Automatic High Beams"
-            ]
-        }
+    "estimated_mpg": "28 city / 34 hwy",
+    "mileage": "74,190 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg/250px-2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg",
+    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-San-Carlos-CA/dealer=Monte-Serro-Honda",
+    "dealer": "Monte Serro Honda",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "CVT Automatic",
+      "drivetrain": "AWD",
+      "engine": "1.5L Turbo I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "Power Moonroof"
+      ]
     }
+  },
+  {
+    "name": "2019 Honda CR-V EX",
+    "price": 17790,
+    "location": {
+      "city": "Fremont, CA",
+      "distance_miles_from_95051": 23
+    },
+    "estimated_mpg": "28 city / 34 hwy",
+    "mileage": "61,286 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-Fremont-CA/dealer=Auto-Nation",
+    "dealer": "Auto Nation",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "CVT Automatic",
+      "drivetrain": "AWD",
+      "engine": "1.5L Turbo I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto",
+        "Power Moonroof",
+        "Heated Front Seats"
+      ]
+    }
+  },
+  {
+    "name": "2019 Honda CR-V EX-L AWD",
+    "price": 18449,
+    "location": {
+      "city": "Gilroy, CA",
+      "distance_miles_from_95051": 44
+    },
+    "estimated_mpg": "28 city / 34 hwy",
+    "mileage": "74,580 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-Gilroy-CA/dealer=Gilroy-Auto-Outlet",
+    "dealer": "Gilroy Auto Outlet",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "CVT Automatic",
+      "drivetrain": "AWD",
+      "engine": "1.5L Turbo I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2019 Honda CR-V",
+    "price": 15690,
+    "location": {
+      "city": "Sutter Creek, CA",
+      "distance_miles_from_95051": 70
+    },
+    "estimated_mpg": "28 city / 34 hwy",
+    "mileage": "70,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-Sutter-Creek-CA/dealer=Sutter-Creek-Honda",
+    "dealer": "Sutter Creek Honda",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Unknown",
+      "transmission": "CVT Automatic",
+      "drivetrain": "AWD",
+      "engine": "1.5L Turbo I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2018 Honda Civic LX",
+    "price": 13787,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 36
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "64,716 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/l-Honda-Civic-in-San-Jose-CA/dealer=Honest-Car-Company",
+    "dealer": "Honest Car Company",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "CVT Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto",
+        "Rearview Camera"
+      ]
+    }
+  }
 ]
