@@ -36,7 +36,7 @@ def ensure_photo_urls(cars):
     """Check each car for placeholder images and try to extract real ones."""
     for car in cars:
         photo_url = car.get('photo_url', '')
-        if 'craigslist' in photo_url or 'placeholder' in photo_url or not photo_url:
+        if 'craigslist' in photo_url or 'placeholder' in photo_url or 'images.cargurus.com' in photo_url or not photo_url:
             print(f"Extracting image for: {car['name']}")
             new_url = extract_vehicle_image(car.get('url', ''))
             if new_url:
@@ -50,236 +50,184 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kayla's Dopamine Rides! 🚗💥</title>
+    <title>Kayla's Premium Rides</title>
     
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..1000;1,9..40,400..1000&family=Outfit:wght@100..900&family=Unbounded:wght@200..900&family=Bangers&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400..700;1,9..40,400..700&family=Nunito:ital,wght@0,700;0,800;0,900;1,700;1,800;1,900&display=swap" rel="stylesheet">
     
     <!-- Tailwind CSS v4 via Browser -->
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     
-    <style>
+    <style type="text/tailwindcss">
+        @theme {
+            --color-clay-bg: #F4F1FA;
+            --color-clay-foreground: #332F3A;
+            --color-clay-muted: #635F69;
+            
+            --color-clay-accent: #7C3AED;
+            --color-clay-accent-alt: #DB2777;
+            --color-clay-accent-tertiary: #0EA5E9;
+            --color-clay-success: #10B981;
+            --color-clay-warning: #F59E0B;
+        }
+
         :root {
-            --bg: #0D0D1A;
-            --fg: #FFFFFF;
-            --muted: #2D1B4E;
-            --c1: #FF3AF2; /* Magenta */
-            --c2: #00F5D4; /* Cyan */
-            --c3: #FFE600; /* Yellow */
-            --c4: #FF6B35; /* Orange */
-            --c5: #7B2FFF; /* Purple */
+            --bg: #F4F1FA;
         }
         
         body {
             background-color: var(--bg);
-            color: var(--fg);
+            color: #332F3A;
             font-family: 'DM Sans', sans-serif;
             overflow-x: hidden;
             position: relative;
         }
 
         h1, h2, h3, h4, h5, h6, .display-font {
-            font-family: 'Unbounded', sans-serif;
+            font-family: 'Nunito', sans-serif;
         }
         
-        .bangers-font {
-            font-family: 'Bangers', cursive;
+        /* High-Fidelity Shadow Stack */
+        .shadow-claySurface {
+            box-shadow: 
+                30px 30px 60px #cdc6d9,
+                -30px -30px 60px #ffffff,
+                inset 10px 10px 20px rgba(139, 92, 246, 0.05),
+                inset -10px -10px 20px rgba(255, 255, 255, 0.8);
+        }
+
+        .shadow-clayCard {
+            box-shadow: 
+                16px 16px 32px rgba(160, 150, 180, 0.2),
+                -10px -10px 24px rgba(255, 255, 255, 0.9),
+                inset 6px 6px 12px rgba(139, 92, 246, 0.03),
+                inset -6px -6px 12px rgba(255, 255, 255, 1);
         }
         
-        /* Typography Shadows */
-        .shadow-single-c5 { text-shadow: 2px 2px 0px var(--c5); }
-        .shadow-double { text-shadow: 2px 2px 0px var(--c5), 4px 4px 0px var(--c1); }
-        .shadow-triple { text-shadow: 2px 2px 0px var(--c5), 4px 4px 0px var(--c1), 6px 6px 0px var(--c2); }
-        .shadow-mega { text-shadow: 4px 4px 0px var(--c5), 8px 8px 0px var(--c1), 12px 12px 0px var(--c2); }
+        .shadow-clayCard-hover {
+            box-shadow: 
+                20px 20px 40px rgba(160, 150, 180, 0.3),
+                -12px -12px 28px rgba(255, 255, 255, 1),
+                inset 6px 6px 12px rgba(139, 92, 246, 0.05),
+                inset -6px -6px 12px rgba(255, 255, 255, 1);
+        }
+
+        .shadow-clayButton {
+            box-shadow: 
+                12px 12px 24px rgba(139, 92, 246, 0.3),
+                -8px -8px 16px rgba(255, 255, 255, 0.4),
+                inset 4px 4px 8px rgba(255, 255, 255, 0.4),
+                inset -4px -4px 8px rgba(0, 0, 0, 0.1);
+        }
         
-        /* Gradients */
-        .text-gradient {
-            background: linear-gradient(90deg, var(--c1), var(--c2), var(--c3), var(--c1));
-            background-size: 300% auto;
+        .shadow-clayButton-hover {
+            box-shadow: 
+                14px 14px 28px rgba(139, 92, 246, 0.4),
+                -10px -10px 20px rgba(255, 255, 255, 0.5),
+                inset 4px 4px 8px rgba(255, 255, 255, 0.5),
+                inset -4px -4px 8px rgba(0, 0, 0, 0.15);
+        }
+
+        .shadow-clayPressed {
+            box-shadow: 
+                inset 10px 10px 20px #d9d4e3,
+                inset -10px -10px 20px #ffffff;
+        }
+
+        /* Gradient Text */
+        .clay-text-gradient {
+            background: linear-gradient(135deg, #332F3A 20%, #7C3AED 60%, #DB2777);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            animation: gradient-shift 4s ease infinite;
-        }
-        
-        /* Patterns */
-        .pattern-dots {
-            background-image: radial-gradient(circle, var(--c1) 1.5px, transparent 1.5px);
-            background-size: 30px 30px;
-            opacity: 0.15;
-            position: fixed;
-            inset: 0;
-            z-index: 0;
-            pointer-events: none;
-        }
-        
-        .pattern-stripes {
-            background-image: repeating-linear-gradient(
-                45deg,
-                transparent,
-                transparent 15px,
-                rgba(255, 230, 0, 0.08) 15px,
-                rgba(255, 230, 0, 0.08) 30px
-            );
-            position: fixed;
-            inset: 0;
-            z-index: 0;
-            pointer-events: none;
-        }
-        
-        .pattern-checker {
-            background-image: conic-gradient(
-                from 90deg at 1px 1px,
-                transparent 90deg,
-                rgba(0, 245, 212, 0.08) 0
-            );
-            background-size: 50px 50px;
-            position: absolute;
-            inset: 0;
-            z-index: 0;
-            pointer-events: none;
+            background-clip: text;
         }
 
-        .pattern-mesh {
-            background:
-                radial-gradient(ellipse at 20% 30%, rgba(255,58,242,0.15) 0%, transparent 50%),
-                radial-gradient(ellipse at 80% 70%, rgba(0,245,212,0.15) 0%, transparent 50%),
-                radial-gradient(ellipse at 50% 50%, rgba(123,47,255,0.1) 0%, transparent 60%);
-            position: absolute;
-            inset: 0;
-            z-index: 0;
-            pointer-events: none;
-        }
-
-        /* Hard Box Shadows */
-        .box-shadow-double-1 { box-shadow: 8px 8px 0 var(--c3), 16px 16px 0 var(--c1); }
-        .box-shadow-double-2 { box-shadow: 8px 8px 0 var(--c4), 16px 16px 0 var(--c2); }
-        .box-shadow-double-3 { box-shadow: 8px 8px 0 var(--c1), 16px 16px 0 var(--c5); }
-        .box-shadow-double-4 { box-shadow: 8px 8px 0 var(--c2), 16px 16px 0 var(--c3); }
-        .box-shadow-double-5 { box-shadow: 8px 8px 0 var(--c5), 16px 16px 0 var(--c4); }
-        
-        /* Glows */
-        .glow-base { box-shadow: 0 0 20px rgba(255, 58, 242, 0.5), 0 0 40px rgba(0, 245, 212, 0.3); }
-        
         /* Animations */
-        @keyframes float {
+        @keyframes clay-float {
             0%, 100% { transform: translateY(0) rotate(0deg); }
-            50%      { transform: translateY(-20px) rotate(5deg); }
+            50% { transform: translateY(-20px) rotate(2deg); }
         }
-        .animate-float { animation: float 6s ease-in-out infinite; }
+        .animate-clay-float { animation: clay-float 8s ease-in-out infinite; }
         
-        @keyframes float-reverse {
+        @keyframes clay-float-delayed {
             0%, 100% { transform: translateY(0) rotate(0deg); }
-            50%      { transform: translateY(20px) rotate(-5deg); }
+            50% { transform: translateY(-15px) rotate(-2deg); }
         }
-        .animate-float-reverse { animation: float-reverse 5s ease-in-out infinite; }
+        .animate-clay-float-delayed { animation: clay-float-delayed 10s ease-in-out infinite; }
         
-        @keyframes pulse-glow {
-            0%, 100% { box-shadow: 0 0 20px rgba(255, 58, 242, 0.5); }
-            50%      { box-shadow: 0 0 40px rgba(255, 58, 242, 0.8), 0 0 60px rgba(0, 245, 212, 0.5); }
+        @keyframes clay-float-slow {
+            0%, 100% { transform: translateY(0) rotate(0deg); }
+            50% { transform: translateY(-30px) rotate(5deg); }
         }
-        .animate-pulse-glow { animation: pulse-glow 2s ease-in-out infinite; }
+        .animate-clay-float-slow { animation: clay-float-slow 12s ease-in-out infinite; }
         
-        @keyframes gradient-shift {
-            0%   { background-position: 0% 50%; }
-            50%  { background-position: 100% 50%; }
-            100% { background-position: 0% 50%; }
+        @keyframes clay-breathe {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.02); }
         }
-        
-        @keyframes spin-slow {
-            from { transform: rotate(0deg); }
-            to   { transform: rotate(360deg); }
-        }
-        .animate-spin-slow { animation: spin-slow 20s linear infinite; }
-        
-        @keyframes wiggle {
-            0%, 100% { transform: rotate(-3deg); }
-            50%      { transform: rotate(3deg); }
-        }
-        .animate-wiggle { animation: wiggle 1s ease-in-out infinite; }
+        .animate-clay-breathe { animation: clay-breathe 6s ease-in-out infinite; }
 
-        @keyframes bounce-subtle {
-            0%, 100% { transform: translateY(0); }
-            50%      { transform: translateY(-10px); }
-        }
-        .animate-bounce-subtle { animation: bounce-subtle 2s ease-in-out infinite; }
+        .animation-delay-2000 { animation-delay: 2s; }
+        .animation-delay-4000 { animation-delay: 4s; }
 
-        /* Card Hover Effects */
-        .max-card {
-            transition: all 300ms ease-out;
+        /* Component Classes */
+        .clay-card {
+            transition: all 500ms cubic-bezier(0.4, 0, 0.2, 1);
         }
-        .max-card:hover {
-            transform: scale(1.02) rotate(2deg) translateY(-8px);
+        .clay-card:hover {
+            transform: translateY(-8px);
         }
-
-        .max-button {
-            transition: all 200ms ease-out;
+        
+        .clay-grid-card:hover {
+            transform: translateY(-8px) scale(1.02);
         }
-        .max-button:hover {
-            transform: scale(1.1);
+        
+        .clay-button {
+            transition: all 200ms cubic-bezier(0.4, 0, 0.2, 1);
         }
-        .max-button:active {
-            transform: scale(0.95);
+        .clay-button:hover {
+            transform: translateY(-4px);
+        }
+        .clay-button:active {
+            transform: scale(0.92);
+            box-shadow: inset 10px 10px 20px #d9d4e3, inset -10px -10px 20px #ffffff;
         }
 
-        /* Utils for borders to make it easier inline */
-        .border-c1 { border-color: var(--c1); }
-        .border-c2 { border-color: var(--c2); }
-        .border-c3 { border-color: var(--c3); }
-        .border-c4 { border-color: var(--c4); }
-        .border-c5 { border-color: var(--c5); }
-        
-        .bg-c1 { background-color: var(--c1); }
-        .bg-c2 { background-color: var(--c2); }
-        .bg-c3 { background-color: var(--c3); }
-        .bg-c4 { background-color: var(--c4); }
-        .bg-c5 { background-color: var(--c5); }
-        
-        .text-c1 { color: var(--c1); }
-        .text-c2 { color: var(--c2); }
-        .text-c3 { color: var(--c3); }
-        .text-c4 { color: var(--c4); }
-        .text-c5 { color: var(--c5); }
-
+        @media (prefers-reduced-motion: reduce) {
+            * {
+                animation-duration: 0.01ms !important;
+                animation-iteration-count: 1 !important;
+                transition-duration: 0.01ms !important;
+                scroll-behavior: auto !important;
+            }
+        }
     </style>
 </head>
 <body class="antialiased min-h-screen">
-    <!-- Global Patterns -->
-    <div class="pattern-dots"></div>
-    <div class="pattern-stripes"></div>
-
-    <!-- Massive Background Typography -->
-    <div class="fixed top-1/4 -left-20 text-[16rem] font-black opacity-10 text-[#FF3AF2] uppercase transform -rotate-12 pointer-events-none display-font leading-none z-0">
-        VROOM
-    </div>
-    <div class="fixed bottom-0 -right-20 text-[20rem] font-black opacity-10 text-[#00F5D4] uppercase pointer-events-none display-font leading-none z-0">
-        BEEP
+    
+    <!-- Background Blobs (Clay Float) -->
+    <div class="pointer-events-none fixed inset-0 overflow-hidden -z-10">
+        <div class="absolute h-[60vh] w-[60vh] rounded-full blur-3xl bg-[#8B5CF6]/10 -top-[10%] -left-[10%] animate-clay-float"></div>
+        <div class="absolute h-[50vh] w-[50vh] rounded-full blur-3xl bg-[#EC4899]/10 top-[20%] -right-[10%] animate-clay-float-delayed animation-delay-2000"></div>
+        <div class="absolute h-[60vh] w-[60vh] rounded-full blur-3xl bg-[#0EA5E9]/10 -bottom-[10%] left-[20%] animate-clay-float-slow animation-delay-4000"></div>
     </div>
 
-    <!-- Floating Shapes -->
-    <div class="fixed top-[15%] left-[10%] text-6xl animate-wiggle z-30 pointer-events-none">✨</div>
-    <div class="fixed top-[30%] right-[15%] text-7xl animate-float z-30 pointer-events-none">🚀</div>
-    <div class="fixed bottom-[20%] left-[5%] text-5xl animate-bounce-subtle z-30 pointer-events-none">🔥</div>
-    <div class="fixed top-[60%] right-[5%] text-6xl animate-float-reverse z-30 pointer-events-none">💰</div>
-
-    <div class="relative z-10 container mx-auto px-6 py-24 md:py-32 max-w-7xl">
+    <div class="relative z-10 container mx-auto px-6 py-16 sm:py-24 max-w-7xl">
         
-        <header class="text-center mb-24 relative">
-            <div class="pattern-mesh"></div>
-            <div class="inline-block relative">
-                <h1 class="text-6xl md:text-8xl lg:text-9xl font-black uppercase tracking-tighter text-gradient shadow-mega mb-6 relative z-10 display-font rotate-1">
-                    KAYLA'S RIDES
-                </h1>
-                <div class="absolute -top-10 -right-10 text-6xl animate-spin-slow">💫</div>
-            </div>
-            <p class="text-2xl md:text-4xl font-bold uppercase shadow-double max-w-4xl mx-auto tracking-widest text-[#FFE600] bangers-font mt-4">
-                Reliable, Affordable, & Ready for the Road! 🛣️💨
+        <!-- Hero Section -->
+        <header class="text-center mb-20 sm:mb-24 relative max-w-4xl mx-auto">
+            <h1 class="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black tracking-tight leading-[1.1] clay-text-gradient mb-6 display-font">
+                Kayla's Rides
+            </h1>
+            <p class="text-lg sm:text-xl md:text-2xl font-medium text-clay-muted leading-relaxed max-w-2xl mx-auto">
+                Only W whips with major aura. No cap, these deals are bussin so pull up in a skibidi ride and mog the ops.
             </p>
         </header>
 
         <!-- Dynamic Grid of Cars -->
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-12 relative z-20">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 md:gap-10 relative z-20">
             {car_cards}
         </div>
         
@@ -290,41 +238,45 @@ HTML_TEMPLATE = """<!DOCTYPE html>
 """
 
 CAR_CARD_TEMPLATE = """
-            <div class="max-card relative bg-[#2D1B4E]/80 backdrop-blur-sm border-4 {border_color} {border_style} rounded-3xl p-6 flex flex-col justify-between {shadow_class} {transform_class} {z_class}">
-                <!-- Background pattern for card -->
-                <div class="pattern-checker opacity-[0.03] rounded-2xl pointer-events-none"></div>
+            <div class="clay-card clay-grid-card relative overflow-hidden rounded-[32px] bg-white/60 backdrop-blur-xl p-6 sm:p-8 text-clay-foreground shadow-clayCard hover:shadow-clayCard-hover flex flex-col justify-between {card_span}">
                 
-                <div class="relative z-10">
-                    <div class="relative rounded-2xl overflow-hidden border-4 {img_border_color} mb-6 h-64 shadow-single-c5">
-                        <img src="{photo_url}" alt="{name}" class="w-full h-full object-cover">
-                        <div class="absolute top-4 right-4 bg-{accent_bg} text-[#0D0D1A] font-black px-4 py-2 rounded-full uppercase text-sm border-2 border-[#0D0D1A] animate-pulse-glow transform rotate-3">
+                <div class="relative z-10 flex h-full flex-col">
+                    <div class="relative rounded-[24px] overflow-hidden mb-6 h-56 sm:h-64 shadow-clayPressed">
+                        <img src="{photo_url}" alt="{name}" class="w-full h-full object-cover transition-transform duration-700 hover:scale-105">
+                        <div class="absolute top-4 right-4 bg-white/90 backdrop-blur-sm text-clay-foreground font-bold px-4 py-2 rounded-full shadow-clayButton">
                             {price_str}
                         </div>
                     </div>
                     
-                    <h2 class="text-2xl font-black uppercase text-white shadow-double mb-4 leading-tight display-font">
+                    <h2 class="text-2xl sm:text-3xl font-extrabold mb-4 leading-tight display-font text-clay-foreground">
                         {name}
                     </h2>
                     
-                    <div class="space-y-3 mb-8 text-lg font-bold">
-                        <div class="flex items-center gap-3 bg-[#0D0D1A]/50 p-3 rounded-xl border-2 border-dashed {border_color_2}">
-                            <span class="text-2xl">📍</span>
-                            <span class="text-white/90">{location} ({distance} mi)</span>
+                    <div class="space-y-4 mb-8 text-base font-medium text-clay-muted flex-grow">
+                        <div class="flex items-center gap-4 bg-white/40 p-4 rounded-2xl shadow-clayPressed">
+                            <div class="w-10 h-10 rounded-full flex items-center justify-center bg-gradient-to-br {icon_grad_1} text-white shadow-clayButton animate-clay-breathe shrink-0">
+                                📍
+                            </div>
+                            <span>{location} ({distance} mi)</span>
                         </div>
-                        <div class="flex items-center gap-3 bg-[#0D0D1A]/50 p-3 rounded-xl border-2 border-solid {border_color_3}">
-                            <span class="text-2xl">⛽</span>
-                            <span class="text-white/90">{mpg} MPG</span>
+                        <div class="flex items-center gap-4 bg-white/40 p-4 rounded-2xl shadow-clayPressed">
+                            <div class="w-10 h-10 rounded-full flex items-center justify-center bg-gradient-to-br {icon_grad_2} text-white shadow-clayButton animate-clay-breathe animation-delay-2000 shrink-0">
+                                ⛽
+                            </div>
+                            <span>{mpg} MPG</span>
                         </div>
-                        <div class="flex items-center gap-3 bg-[#0D0D1A]/50 p-3 rounded-xl border-2 border-dotted {border_color_1}">
-                            <span class="text-2xl">🛣️</span>
-                            <span class="text-white/90">{mileage} Miles</span>
+                        <div class="flex items-center gap-4 bg-white/40 p-4 rounded-2xl shadow-clayPressed">
+                            <div class="w-10 h-10 rounded-full flex items-center justify-center bg-gradient-to-br {icon_grad_3} text-white shadow-clayButton animate-clay-breathe animation-delay-4000 shrink-0">
+                                🛣️
+                            </div>
+                            <span>{mileage} Miles</span>
                         </div>
                     </div>
-                </div>
 
-                <a href="{url}" target="_blank" class="max-button w-full text-center bg-gradient-to-r from-[{grad_from}] via-[{grad_via}] to-[{grad_to}] border-4 {button_border} rounded-full py-4 px-8 font-black uppercase tracking-widest text-lg md:text-xl text-white shadow-[0_0_20px_rgba(255,58,242,0.6)] relative overflow-hidden z-10">
-                    View Deal ⚡
-                </a>
+                    <a href="{url}" target="_blank" class="clay-button inline-flex items-center justify-center w-full h-14 bg-gradient-to-br from-[#A78BFA] to-[#7C3AED] rounded-[20px] font-bold tracking-wide text-lg text-white shadow-clayButton hover:shadow-clayButton-hover z-10 mt-auto">
+                        View Details
+                    </a>
+                </div>
             </div>
 """
 
@@ -344,71 +296,35 @@ def build_site():
     with open(json_path, 'w', encoding='utf-8') as f:
         json.dump(cars, f, indent=2)
 
-    # Accent colors array
-    colors = ['c1', 'c2', 'c3', 'c4', 'c5']
-    hex_colors = {
-        'c1': '#FF3AF2',
-        'c2': '#00F5D4',
-        'c3': '#FFE600',
-        'c4': '#FF6B35',
-        'c5': '#7B2FFF'
-    }
-    
-    border_styles = ['border-solid', 'border-dashed', 'border-double']
-
     cards_html = []
     
+    # Orbs Gradients
+    orb_gradients = [
+        "from-purple-400 to-purple-600",
+        "from-pink-400 to-pink-600",
+        "from-sky-400 to-sky-600",
+        "from-emerald-400 to-emerald-600",
+        "from-amber-400 to-amber-600"
+    ]
+    
     for i, car in enumerate(cars):
-        # Rotate colors using modulo
-        primary_idx = i % 5
-        secondary_idx = (i + 1) % 5
-        tertiary_idx = (i + 2) % 5
-        
-        primary_color = colors[primary_idx]
-        secondary_color = colors[secondary_idx]
-        tertiary_color = colors[tertiary_idx]
-        
-        border_style = border_styles[i % 3]
-        
-        # Determine shadow
-        shadow_idx = (i % 5) + 1
-        shadow_class = f"box-shadow-double-{shadow_idx}"
-        
-        # Determine transform (asymmetry)
-        is_odd = i % 2 != 0
-        transform_class = "md:translate-y-12" if is_odd else ""
-        if i % 3 == 0:
-            transform_class += " rotate-1"
-        elif i % 3 == 1:
-            transform_class += " -rotate-1"
-            
-        z_class = f"z-[{20 + i}]"
-        
         price_str = f"${car['price']:,.0f}" if car.get('price') else "Price TBD"
         
+        card_span = ""
+        
         card = CAR_CARD_TEMPLATE.format(
-            border_color=f"border-{secondary_color}",
-            border_style=border_style,
-            shadow_class=shadow_class,
-            transform_class=transform_class,
-            z_class=z_class,
-            img_border_color=f"border-{primary_color}",
+            card_span=card_span,
             photo_url=car.get('photo_url', ''),
-            accent_bg=tertiary_color,
             price_str=price_str,
             name=car.get('name', 'Unknown Car'),
-            border_color_1=f"border-{colors[(i+0)%5]}",
-            border_color_2=f"border-{colors[(i+1)%5]}",
-            border_color_3=f"border-{colors[(i+2)%5]}",
+            icon_grad_1=orb_gradients[i % 5],
+            icon_grad_2=orb_gradients[(i + 1) % 5],
+            icon_grad_3=orb_gradients[(i + 2) % 5],
             location=car.get('location', {}).get('city', 'Unknown'),
             distance=car.get('location', {}).get('distance_miles_from_95051', '?'),
             mpg=car.get('estimated_mpg', '?'),
             mileage=car.get('mileage', '?'),
-            url=car.get('url', '#'),
-            grad_from=hex_colors[primary_color],
-            grad_via=hex_colors[tertiary_color],
-            grad_to=hex_colors[secondary_color],
-            button_border=f"border-{colors[(i+3)%5]}"
+            url=car.get('url', '#')
         )
         cards_html.append(card)
 
