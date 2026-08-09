@@ -1,114 +1,156 @@
 [
   {
-    "name": "2025 Nissan Altima 2.5 SV FWD \u2013 22,935 Miles \u2013 Closest Pick!",
-    "price": 19178.0,
-    "photo_url": "https://static.cargurus.com/images/forsale/2026/06/19/02/37/2025_nissan_altima-pic-5809909519275831917-1024x768.jpeg",
-    "url": "https://www.cargurus.com/details/451165483",
+    "name": "2017 Honda Civic EX-L w/Navigation",
+    "price": 19990,
+    "photo_url": "https://images.carvana.com/image/4490179/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4490179",
     "location": {
-      "city": "Santa Clara",
-      "distance_miles_from_95051": 2.0,
-      "dealer_name": "CarGurus Listing"
-    },
-    "estimated_mpg": "32+",
-    "mileage": "22,935",
-    "note": "Good Deal \u2013 White, FWD, only 23K miles \u2013 closest at 2 mi!"
-  },
-  {
-    "name": "2024 Nissan Altima 2.5 SR FWD \u2013 62,919 Miles \u2013 Great Deal",
-    "price": 16725.0,
-    "photo_url": "https://static.cargurus.com/images/forsale/2026/05/21/07/28/2024_nissan_altima-pic-7674847237857764427-1024x768.jpeg",
-    "url": "https://www.cargurus.com/details/447922433",
-    "location": {
-      "city": "Fremont",
+      "city": "San Jose",
       "distance_miles_from_95051": 10.0,
-      "dealer_name": "CarGurus Listing"
+      "dealer_name": "Carvana"
     },
     "estimated_mpg": "32+",
-    "mileage": "62,919",
-    "note": "Great Deal \u2013 Black, FWD, 63K miles"
+    "mileage": "76,000",
+    "note": "Great match - under $20K, well under 80K miles, has navigation"
   },
   {
-    "name": "2023 Nissan Rogue SV AWD \u2013 75,166 Miles \u2013 Great Deal",
-    "price": 17079.0,
-    "photo_url": "https://static.cargurus.com/images/forsale/2026/05/04/21/13/2023_nissan_rogue-pic-6622847210682146536-1024x768.jpeg",
-    "url": "https://www.cargurus.com/details/446840328",
+    "name": "2018 Honda Civic EX-T",
+    "price": 19990,
+    "photo_url": "https://images.carvana.com/image/4621071/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4621071",
     "location": {
       "city": "San Jose",
-      "distance_miles_from_95051": 7.0,
-      "dealer_name": "Capitol Ford"
-    },
-    "estimated_mpg": "28+",
-    "mileage": "75,166",
-    "note": "Great Deal \u2013 Gray, AWD SUV, 75K miles"
-  },
-  {
-    "name": "2024 Nissan Altima 2.5 SV AWD \u2013 53,023 Miles \u2013 Great Deal",
-    "price": 16572.0,
-    "photo_url": "https://static.cargurus.com/images/forsale/2026/04/23/05/52/2024_nissan_altima-pic-1692680020445707912-1024x768.jpeg",
-    "url": "https://www.cargurus.com/details/445425254",
-    "location": {
-      "city": "San Bruno",
-      "distance_miles_from_95051": 32.0,
-      "dealer_name": "CarGurus Listing"
-    },
-    "estimated_mpg": "30+",
-    "mileage": "53,023",
-    "note": "Great Deal \u2013 Silver, AWD, 53K miles"
-  },
-  {
-    "name": "2018 Chrysler Pacifica LX FWD \u2013 67,905 Miles \u2013 Minivan Option",
-    "price": 16083.0,
-    "photo_url": "https://static.cargurus.com/images/forsale/2026/08/07/05/01/2018_chrysler_pacifica-pic-507654195092645211-1024x768.jpeg",
-    "url": "https://www.cargurus.com/details/451861381",
-    "location": {
-      "city": "Burlingame",
-      "distance_miles_from_95051": 26.0,
-      "dealer_name": "CarGurus Listing"
-    },
-    "estimated_mpg": "22+",
-    "mileage": "67,905",
-    "note": "Fair Deal \u2013 Minivan, 68K miles \u2013 meets criteria"
-  },
-  {
-    "name": "2024 Honda HR-V LX \u2013 13,365 Miles \u2013 CPO Certified (Above Budget)",
-    "price": 24999.0,
-    "photo_url": "https://pictures.dealer.com/s/soniccarsonhonda/1234/cfa823287c8244f09ba41c1e329903c6.jpg",
-    "url": "https://www.hondaofstevenscreek.com/certified/Honda/2024-Honda-HR-V-c9286c87ac1814de2655b0694b382788.htm",
-    "location": {
-      "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek CPO"
-    },
-    "estimated_mpg": "28+",
-    "mileage": "13,365",
-    "note": "Honda Certified, low miles, but $24,999 exceeds $20K budget"
-  },
-  {
-    "name": "2024 Honda Accord EX \u2013 4,965 Miles \u2013 CPO Certified (Above Budget)",
-    "price": 27198.0,
-    "photo_url": "https://pictures.dealer.com/s/sonichondastevenscreek/0155/326c7091ad98fcd43cc9332f52c0e457x.jpg?impolicy=resize&w=414",
-    "url": "https://www.hondaofstevenscreek.com/certified/Honda/2024-Honda-Accord-6365e21bac18347aee8c697deb9b1898.htm",
-    "location": {
-      "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek CPO"
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
     },
     "estimated_mpg": "32+",
-    "mileage": "4,965",
-    "note": "Honda Certified, very low miles, but $27,198 exceeds $20K budget"
+    "mileage": "71,000",
+    "note": "Best match - under $20K, under 80K, Turbo engine, EX-T trim"
   },
   {
-    "name": "2023 Honda Civic EX-L Hatchback \u2013 23,071 Miles \u2013 CPO Certified (Above Budget)",
-    "price": 26608.0,
-    "photo_url": "https://pictures.dealer.com/s/sonichondastevenscreek/1998/2d37782def8e64871f29585af3fb41dax.jpg?impolicy=resize&w=414",
-    "url": "https://www.hondaofstevenscreek.com/certified/Honda/2023-Honda-Civic-5da7c9e8ac18494f4214ccec72ee1c74.htm",
+    "name": "2013 Honda Civic EX",
+    "price": 16990,
+    "photo_url": "https://images.carvana.com/image/4607114/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4607114",
     "location": {
       "city": "San Jose",
-      "distance_miles_from_95051": 4.0,
-      "dealer_name": "Honda of Stevens Creek CPO"
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
     },
-    "estimated_mpg": "35+",
-    "mileage": "23,071",
-    "note": "Honda Certified hatchback, but $26,608 exceeds $20K budget"
+    "estimated_mpg": "32+",
+    "mileage": "71,000",
+    "note": "Budget pick - cheapest matching Civic"
+  },
+  {
+    "name": "2015 Honda Civic LX",
+    "price": 19990,
+    "photo_url": "https://images.carvana.com/image/4400603/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4400603",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "13,000",
+    "note": "Lowest mileage pick - only 13K miles!"
+  },
+  {
+    "name": "2014 Honda Accord EX",
+    "price": 17990,
+    "photo_url": "https://images.carvana.com/image/4618707/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4618707",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "74,000",
+    "note": "Mid-size option, well under $20K, good mileage"
+  },
+  {
+    "name": "2017 Toyota Corolla LE",
+    "price": 19590,
+    "photo_url": "https://images.carvana.com/image/4586947/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4586947",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "40,000",
+    "note": "Great match - mid-range mileage, trusted brand"
+  },
+  {
+    "name": "2017 Toyota Camry SE",
+    "price": 19590,
+    "photo_url": "https://images.carvana.com/image/4546211/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4546211",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "52,000",
+    "note": "Mid-size sedan, Sport edition"
+  },
+  {
+    "name": "2016 Toyota Corolla S Plus",
+    "price": 17590,
+    "photo_url": "https://images.carvana.com/image/4584959/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4584959",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "78,000",
+    "note": "Sportier Corolla trim, near mileage cap"
+  },
+  {
+    "name": "2018 Toyota C-HR XLE",
+    "price": 18990,
+    "photo_url": "https://images.carvana.com/image/4527923/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4527923",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "68,000",
+    "note": "Stylish compact SUV, XLE premium trim"
+  },
+  {
+    "name": "2017 Toyota Camry LE",
+    "price": 18590,
+    "photo_url": "https://images.carvana.com/image/4595115/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4595115",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "75,000",
+    "note": "Basic but reliable LE trim"
+  },
+  {
+    "name": "2015 Toyota RAV4 LE",
+    "price": 19990,
+    "photo_url": "https://images.carvana.com/image/4598095/exterior/front/left",
+    "url": "https://www.carvana.com/vehicle/4598095",
+    "location": {
+      "city": "San Jose",
+      "distance_miles_from_95051": 10.0,
+      "dealer_name": "Carvana"
+    },
+    "estimated_mpg": "32+",
+    "mileage": "72,000",
+    "note": "Compact SUV, popular family choice"
   }
 ]
