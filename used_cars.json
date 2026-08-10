@@ -1,84 +1,374 @@
 [
   {
-    "name": "2018 Honda CR-V EX-L AWD",
-    "price": 19590,
+    "name": "2015 Honda Civic LX",
+    "price": 19990,
     "location": {
-      "city": "San Carlos, CA",
-      "distance_miles_from_95051": 3
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
     },
-    "estimated_mpg": "28 city / 34 hwy",
-    "mileage": "74,190 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg/250px-2017_Honda_CR-V_SE_i-VETEC_Automatic_2.0_facelift_Front.jpg",
-    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-San-Carlos-CA/dealer=Monte-Serro-Honda",
-    "dealer": "Monte Serro Honda",
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "13,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg/250px-Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg",
+    "url": "https://www.carvana.com/vehicle/4400603",
+    "dealer": "Carvana",
     "details": {
       "exterior": "Unknown",
-      "interior": "Leather",
-      "transmission": "CVT Automatic",
-      "drivetrain": "AWD",
-      "engine": "1.5L Turbo I4",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
       "fuel": "Gas",
       "features": [
-        "Honda Sensing Suite",
-        "Apple CarPlay",
-        "Android Auto",
-        "Leather Seats",
-        "Heated Front Seats",
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2014 Honda Civic EX",
+    "price": 18990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "31,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.carvana.com/vehicle/4348411",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
         "Power Moonroof"
       ]
     }
   },
   {
-    "name": "2019 Honda CR-V EX",
-    "price": 17790,
+    "name": "2016 Toyota Corolla LE",
+    "price": 19990,
     "location": {
-      "city": "Fremont, CA",
-      "distance_miles_from_95051": 23
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
     },
-    "estimated_mpg": "28 city / 34 hwy",
-    "mileage": "61,286 mi",
+    "estimated_mpg": "28 city / 36 hwy",
+    "mileage": "32,000 mi",
     "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
-    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-Fremont-CA/dealer=Auto-Nation",
-    "dealer": "Auto Nation",
+    "url": "https://www.carvana.com/vehicle/4542065",
+    "dealer": "Carvana",
     "details": {
       "exterior": "Unknown",
       "interior": "Cloth",
-      "transmission": "CVT Automatic",
-      "drivetrain": "AWD",
-      "engine": "1.5L Turbo I4",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4",
       "fuel": "Gas",
       "features": [
-        "Honda Sensing Suite",
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2016 Mazda Mazda6 i Touring",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "26 city / 35 hwy",
+    "mileage": "38,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda6_i_Sport_%28US%29_front.jpg/250px-2016_Mazda6_i_Sport_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4476456",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2018 Toyota Yaris iA base",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "40,000 mi",
+    "photo_url": "",
+    "url": "https://www.carvana.com/vehicle/4434102",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2014 Mazda MX-5 Miata Sport",
+    "price": 17590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "26 city / 34 hwy",
+    "mileage": "42,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2015_Mazda_MX-5_Miata_Sport_%28US%29_front.jpg/250px-2015_Mazda_MX-5_Miata_Sport_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4538938",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "RWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2017 Mazda Mazda6 Touring",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "26 city / 35 hwy",
+    "mileage": "42,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda6_i_Sport_%28US%29_front.jpg/250px-2016_Mazda6_i_Sport_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4424604",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
         "Apple CarPlay",
         "Android Auto",
-        "Power Moonroof",
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2020 Subaru Impreza Premium",
+    "price": 19590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "44,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2020_Subaru_Impreza_Premium_%28US%29_front.jpg/250px-2020_Subaru_Impreza_Premium_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4547130",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2014 Toyota Camry SE",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 35 hwy",
+    "mileage": "45,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/2014_Toyota_Camry_XLE_V6_%28US%29_front.jpg/250px-2014_Toyota_Camry_XLE_V6_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4624321",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2017 Mazda Mazda6 Touring",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "26 city / 35 hwy",
+    "mileage": "45,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda6_i_Sport_%28US%29_front.jpg/250px-2016_Mazda6_i_Sport_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4552282",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2018 Toyota C-HR XLE",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 31 hwy",
+    "mileage": "47,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Toyota_C-HR_XLE_%28US%29_front.jpg/250px-2018_Toyota_C-HR_XLE_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4624779",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
         "Heated Front Seats"
       ]
     }
   },
   {
-    "name": "2019 Honda CR-V EX-L AWD",
-    "price": 18449,
+    "name": "2012 Toyota Prius v Two",
+    "price": 18990,
     "location": {
-      "city": "Gilroy, CA",
-      "distance_miles_from_95051": 44
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
     },
-    "estimated_mpg": "28 city / 34 hwy",
-    "mileage": "74,580 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
-    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-Gilroy-CA/dealer=Gilroy-Auto-Outlet",
-    "dealer": "Gilroy Auto Outlet",
+    "estimated_mpg": "44 city / 40 hwy",
+    "mileage": "51,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/2012_Toyota_Prius_v_Two_%28US%29_front.jpg/250px-2012_Toyota_Prius_v_Two_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4606122",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4 Hybrid",
+      "fuel": "Hybrid",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2019 Toyota C-HR LE",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 31 hwy",
+    "mileage": "51,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Toyota_C-HR_XLE_%28US%29_front.jpg/250px-2018_Toyota_C-HR_XLE_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4576599",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2016 Mazda CX-5 Touring",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 31 hwy",
+    "mileage": "51,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016_Mazda_CX-5_Touring_%28US%29_front.jpg/250px-2016_Mazda_CX-5_Touring_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4519062",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Power Moonroof",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2015 Mazda Mazda6 i Grand Touring",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "26 city / 35 hwy",
+    "mileage": "51,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda6_i_Sport_%28US%29_front.jpg/250px-2016_Mazda6_i_Sport_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4538326",
+    "dealer": "Carvana",
     "details": {
       "exterior": "Unknown",
       "interior": "Leather",
-      "transmission": "CVT Automatic",
-      "drivetrain": "AWD",
-      "engine": "1.5L Turbo I4",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
       "fuel": "Gas",
       "features": [
-        "Honda Sensing Suite",
-        "Apple CarPlay",
-        "Android Auto",
         "Leather Seats",
         "Heated Front Seats",
         "Power Moonroof"
@@ -86,23 +376,208 @@
     }
   },
   {
-    "name": "2019 Honda CR-V",
-    "price": 15690,
+    "name": "2014 Subaru XV Crosstrek Limited",
+    "price": 18990,
     "location": {
-      "city": "Sutter Creek, CA",
-      "distance_miles_from_95051": 70
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
     },
-    "estimated_mpg": "28 city / 34 hwy",
-    "mileage": "70,000 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
-    "url": "https://www.cargurus.com/Cars/l-Honda-CR-V-in-Sutter-Creek-CA/dealer=Sutter-Creek-Honda",
-    "dealer": "Sutter Creek Honda",
+    "estimated_mpg": "28 city / 33 hwy",
+    "mileage": "51,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2014_Subaru_XV_Crosstrek_Limited_%28US%29_front.jpg/250px-2014_Subaru_XV_Crosstrek_Limited_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4538652",
+    "dealer": "Carvana",
     "details": {
       "exterior": "Unknown",
-      "interior": "Unknown",
-      "transmission": "CVT Automatic",
+      "interior": "Leather",
+      "transmission": "Automatic",
       "drivetrain": "AWD",
-      "engine": "1.5L Turbo I4",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2017 Toyota Camry SE",
+    "price": 19590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 35 hwy",
+    "mileage": "52,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg/250px-2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4546211",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2015 Honda Fit EX",
+    "price": 17590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "33 city / 41 hwy",
+    "mileage": "55,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/2015_Honda_Fit_EX_%28US%29_front.jpg/250px-2015_Honda_Fit_EX_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4538366",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2017 Subaru Outback 2.5i Limited",
+    "price": 19590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 32 hwy",
+    "mileage": "59,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2017_Subaru_Outback_2.5i_Limited_%28US%29_front.jpg/250px-2017_Subaru_Outback_2.5i_Limited_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4304635",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2017 Subaru Forester 2.0XT Premium",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "26 city / 33 hwy",
+    "mileage": "60,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2017_Subaru_Forester_2.0XT_Premium_%28US%29_front.jpg/250px-2017_Subaru_Forester_2.0XT_Premium_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4382451",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.0L I4 Turbo",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2011 Honda CR-V EX-L",
+    "price": 18990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 33 hwy",
+    "mileage": "63,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/2012_Honda_CR-V_EX-L_%28US%29_front.jpg/250px-2012_Honda_CR-V_EX-L_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4554744",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.4L I4",
+      "fuel": "Gas",
+      "features": [
+        "Leather Seats",
+        "Heated Front Seats",
+        "Power Moonroof",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2023 Subaru Impreza base",
+    "price": 19590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "67,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2020_Subaru_Impreza_Premium_%28US%29_front.jpg/250px-2020_Subaru_Impreza_Premium_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4525253",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2017 Honda Civic LX",
+    "price": 18990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "68,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.carvana.com/vehicle/4562850",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
       "fuel": "Gas",
       "features": [
         "Honda Sensing Suite",
@@ -112,21 +587,277 @@
     }
   },
   {
-    "name": "2018 Honda Civic LX",
-    "price": 13787,
+    "name": "2014 Toyota Corolla S Plus",
+    "price": 17990,
     "location": {
-      "city": "San Jose, CA",
-      "distance_miles_from_95051": 36
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
     },
-    "estimated_mpg": "30 city / 38 hwy",
-    "mileage": "64,716 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
-    "url": "https://www.cargurus.com/Cars/l-Honda-Civic-in-San-Jose-CA/dealer=Honest-Car-Company",
-    "dealer": "Honest Car Company",
+    "estimated_mpg": "28 city / 36 hwy",
+    "mileage": "68,000 mi",
+    "photo_url": "",
+    "url": "https://www.carvana.com/vehicle/4592055",
+    "dealer": "Carvana",
     "details": {
       "exterior": "Unknown",
       "interior": "Cloth",
-      "transmission": "CVT Automatic",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2020 Honda HR-V LX",
+    "price": 18990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 31 hwy",
+    "mileage": "70,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2020_Honda_HRV_EX_AWD_%28US%29_front.jpg/250px-2020_Honda_HRV_EX_AWD_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4616374",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "1.8L I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2016 Mazda Mazda3 i Sport",
+    "price": 17590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "70,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda3_i_Sport_%28US%29_front.jpg/250px-2016_Mazda3_i_Sport_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4599815",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2018 Subaru Outback 2.5i Limited",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 32 hwy",
+    "mileage": "70,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2017_Subaru_Outback_2.5i_Limited_%28US%29_front.jpg/250px-2017_Subaru_Outback_2.5i_Limited_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4575450",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2018 Toyota C-HR XLE Premium",
+    "price": 18990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 31 hwy",
+    "mileage": "71,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Toyota_C-HR_XLE_%28US%29_front.jpg/250px-2018_Toyota_C-HR_XLE_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4629473",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats"
+      ]
+    }
+  },
+  {
+    "name": "2019 Subaru Outback 2.5i",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 32 hwy",
+    "mileage": "71,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2017_Subaru_Outback_2.5i_Limited_%28US%29_front.jpg/250px-2017_Subaru_Outback_2.5i_Limited_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4497844",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2015 Toyota RAV4 LE",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "24 city / 31 hwy",
+    "mileage": "72,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+    "url": "https://www.carvana.com/vehicle/4598095",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2014 Honda Accord EX",
+    "price": 17990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 36 hwy",
+    "mileage": "74,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2014_Honda_Accord_EX-L_%28US%29_front.jpg/250px-2014_Honda_Accord_EX-L_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4618707",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.4L I4",
+      "fuel": "Gas",
+      "features": [
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2015 Honda Accord EX-L",
+    "price": 19590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "27 city / 36 hwy",
+    "mileage": "75,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2014_Honda_Accord_EX-L_%28US%29_front.jpg/250px-2014_Honda_Accord_EX-L_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4634579",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.4L I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Leather Seats",
+        "Heated Front Seats",
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2017 Toyota Camry LE",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 35 hwy",
+    "mileage": "75,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg/250px-2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4595115",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2017 Honda Civic EX w/Honda Sensing",
+    "price": 18990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "76,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.carvana.com/vehicle/4625058",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
       "drivetrain": "FWD",
       "engine": "2.0L I4",
       "fuel": "Gas",
@@ -134,7 +865,267 @@
         "Honda Sensing Suite",
         "Apple CarPlay",
         "Android Auto",
+        "Power Moonroof"
+      ]
+    }
+  },
+  {
+    "name": "2017 Honda Civic EX-L w/Navigation",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "76,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.carvana.com/vehicle/4490179",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "Power Moonroof",
+        "Navigation System"
+      ]
+    }
+  },
+  {
+    "name": "2020 Toyota Camry LE",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 35 hwy",
+    "mileage": "76,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg/250px-2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4529123",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2014 Mazda Mazda2 Sport",
+    "price": 11990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "76,000 mi",
+    "photo_url": "",
+    "url": "https://www.carvana.com/vehicle/4488188",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4",
+      "fuel": "Gas",
+      "features": [
         "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2018 Mazda CX-3 base",
+    "price": 17590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 33 hwy",
+    "mileage": "77,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Mazda_CX-3_%28US%29_front.jpg/250px-2018_Mazda_CX-3_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4583231",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2016 Toyota Corolla S Plus",
+    "price": 17590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 36 hwy",
+    "mileage": "78,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+    "url": "https://www.carvana.com/vehicle/4584959",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2015 Subaru Legacy 3.6R Limited",
+    "price": 17590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "24 city / 32 hwy",
+    "mileage": "78,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2015_Subaru_Legacy_3.6R_Limited_%28US%29_front.jpg/250px-2015_Subaru_Legacy_3.6R_Limited_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4442863",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "3.6L H6",
+      "fuel": "Gas",
+      "features": [
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2019 Subaru Crosstrek 2.0i Premium",
+    "price": 19990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 33 hwy",
+    "mileage": "78,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2014_Subaru_XV_Crosstrek_Limited_%28US%29_front.jpg/250px-2014_Subaru_XV_Crosstrek_Limited_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4603064",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.0L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2014 Toyota Corolla iM base",
+    "price": 18590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "28 city / 36 hwy",
+    "mileage": "79,000 mi",
+    "photo_url": "",
+    "url": "https://www.carvana.com/vehicle/4587912",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2016 Mazda CX-5 Touring",
+    "price": 16990,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 31 hwy",
+    "mileage": "79,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016_Mazda_CX-5_Touring_%28US%29_front.jpg/250px-2016_Mazda_CX-5_Touring_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4457857",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Power Moonroof",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2017 Mazda CX-5 Grand Touring",
+    "price": 19590,
+    "location": {
+      "city": "Nationwide (Carvana)",
+      "distance_miles_from_95051": 0
+    },
+    "estimated_mpg": "25 city / 31 hwy",
+    "mileage": "80,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/2016_Mazda_CX-5_Touring_%28US%29_front.jpg/250px-2016_Mazda_CX-5_Touring_%28US%29_front.jpg",
+    "url": "https://www.carvana.com/vehicle/4600184",
+    "dealer": "Carvana",
+    "details": {
+      "exterior": "Unknown",
+      "interior": "Leather",
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats",
+        "Power Moonroof",
+        "All-Wheel Drive"
       ]
     }
   }
