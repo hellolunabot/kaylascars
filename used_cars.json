@@ -1,5 +1,206 @@
 [
   {
+    "name": "2016 Honda Civic EX-T",
+    "price": 18073,
+    "location": {
+      "city": "Burlingame, CA",
+      "distance_miles_from_95051": 25
+    },
+    "estimated_mpg": "31 city / 40 hwy",
+    "mileage": "44,084 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Black",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (158 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Turbo Engine",
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2014 Honda Civic LX",
+    "price": 14998,
+    "location": {
+      "city": "Sunnyvale, CA",
+      "distance_miles_from_95051": 4
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "74,077 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg/250px-Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "White",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4 (143 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2017 Honda Civic LX",
+    "price": 16584,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 3
+    },
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "71,006 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Under-20000-m6_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Black",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (158 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
+    "name": "2015 Toyota Corolla LE",
+    "price": 15123,
+    "location": {
+      "city": "Santa Clara, CA",
+      "distance_miles_from_95051": 2
+    },
+    "estimated_mpg": "28 city / 36 hwy",
+    "mileage": "49,935 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/2019_Honda_CR-V_EX_i-VTEC_1.5.jpg/250px-2019_Honda_CR-V_EX_i-VTEC_1.5.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Toyota-Under-20000-Santa-Clara-m7_spt379_L2931",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Blue",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4 (132 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2019 Toyota C-HR XLE",
+    "price": 17999,
+    "location": {
+      "city": "Fremont, CA",
+      "distance_miles_from_95051": 14
+    },
+    "estimated_mpg": "27 city / 31 hwy",
+    "mileage": "74,315 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Toyota_C-HR_XLE_%28US%29_front.jpg/250px-2018_Toyota_C-HR_XLE_%28US%29_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Toyota-Under-20000-Santa-Clara-m7_spt379_L2931",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Blue",
+      "interior": "Leather",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (144 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "Leather Seats",
+        "Heated Front Seats"
+      ]
+    }
+  },
+  {
+    "name": "2016 Toyota Camry SE",
+    "price": 15995,
+    "location": {
+      "city": "Santa Clara, CA",
+      "distance_miles_from_95051": 2
+    },
+    "estimated_mpg": "25 city / 35 hwy",
+    "mileage": "53,000 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg/250px-2018_Toyota_Camry_SE_2.5X_%28X310%29_%28US%29_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Toyota-Under-20000-Santa-Clara-m7_spt379_L2931",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Creme Brulee Mica",
+      "interior": "Cloth",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4 (178 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2019 Subaru Forester 2.5i Premium",
+    "price": 19123,
+    "location": {
+      "city": "Montclair, CA",
+      "distance_miles_from_95051": 32
+    },
+    "estimated_mpg": "26 city / 33 hwy",
+    "mileage": "56,618 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2017_Subaru_Forester_2.0XT_Premium_%28US%29_front.jpg/250px-2017_Subaru_Forester_2.0XT_Premium_%28US%29_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Subaru-Under-20000-California-m53_spt379_L2161",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Black",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "AWD",
+      "engine": "2.5L H4 (182 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto",
+        "All-Wheel Drive"
+      ]
+    }
+  },
+  {
+    "name": "2019 Mazda CX-3 Touring",
+    "price": 16985,
+    "location": {
+      "city": "Montclair, CA",
+      "distance_miles_from_95051": 32
+    },
+    "estimated_mpg": "28 city / 33 hwy",
+    "mileage": "22,225 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2018_Mazda_CX-3_%28US%29_front.jpg/250px-2018_Mazda_CX-3_%28US%29_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-Under-20000-California-m42_spt379_L2161",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Snowflake White Pearl",
+      "interior": "Cloth",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (148 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Apple CarPlay",
+        "Android Auto"
+      ]
+    }
+  },
+  {
     "name": "2015 Honda Civic LX",
     "price": 19990,
     "location": {
