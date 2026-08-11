@@ -1329,5 +1329,247 @@
         "All-Wheel Drive"
       ]
     }
+  },
+  {
+    "name": "2020 Honda Civic LX Sedan FWD",
+    "price": 17863,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 3
+    },
+    "estimated_mpg": "32 city / 42 hwy",
+    "mileage": "76,743 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (158 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2019 Honda Civic Sport FWD",
+    "price": 19585,
+    "location": {
+      "city": "Burlingame, CA",
+      "distance_miles_from_95051": 27
+    },
+    "estimated_mpg": "32 city / 42 hwy",
+    "mileage": "55,054 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4 Turbo (180 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2020 Honda Civic LX Sedan FWD",
+    "price": 17998,
+    "location": {
+      "city": "San Leandro, CA",
+      "distance_miles_from_95051": 28
+    },
+    "estimated_mpg": "32 city / 42 hwy",
+    "mileage": "77,218 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (158 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2019 Honda Civic Sport FWD",
+    "price": 18989,
+    "location": {
+      "city": "Livermore, CA",
+      "distance_miles_from_95051": 26
+    },
+    "estimated_mpg": "32 city / 42 hwy",
+    "mileage": "64,362 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4 Turbo (180 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2020 Honda Civic Sport Sedan FWD",
+    "price": 19000,
+    "location": {
+      "city": "Burlingame, CA",
+      "distance_miles_from_95051": 26
+    },
+    "estimated_mpg": "32 city / 42 hwy",
+    "mileage": "76,470 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4 Turbo (180 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2020 Honda Civic EX Sedan FWD",
+    "price": 19966,
+    "location": {
+      "city": "Gilroy, CA",
+      "distance_miles_from_95051": 33
+    },
+    "estimated_mpg": "32 city / 42 hwy",
+    "mileage": "73,027 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.5L I4 Turbo (180 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite",
+        "Sunroof"
+      ]
+    }
+  },
+  {
+    "name": "2015 Honda Civic EX",
+    "price": 16498,
+    "location": {
+      "city": "Dublin, CA",
+      "distance_miles_from_95051": 24
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "47,280 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg/250px-Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4 (143 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Rearview Camera"
+      ]
+    }
+  },
+  {
+    "name": "2016 Honda Civic LX",
+    "price": 18073,
+    "location": {
+      "city": "Burlingame, CA",
+      "distance_miles_from_95051": 26
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "44,084 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg/250px-Honda_Civic_Touring_%28US%29_%2817-03-2015%29.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Honda-Civic-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (158 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Honda Sensing Suite"
+      ]
+    }
+  },
+  {
+    "name": "2019 Toyota Corolla LE",
+    "price": 16676,
+    "location": {
+      "city": "Oakland, CA",
+      "distance_miles_from_95051": 29
+    },
+    "estimated_mpg": "28 city / 36 hwy",
+    "mileage": "63,236 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2019_Toyota_Corolla_1.8L_Icon_Edition_%28ZE7%29_sedan_%2820191117%29.jpg/250px-2019_Toyota_Corolla_1.8L_Icon_Edition_%28ZE7%29_sedan_%2820191117%29.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Toyota-Corolla-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4 (132 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Toyota Safety Sense"
+      ]
+    }
+  },
+  {
+    "name": "2022 Toyota Corolla LE FWD",
+    "price": 17935,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 5
+    },
+    "estimated_mpg": "31 city / 40 hwy",
+    "mileage": "62,500 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/2019_Toyota_Corolla_1.8L_Icon_Edition_%28ZE7%29_sedan_%2820191117%29.jpg/250px-2019_Toyota_Corolla_1.8L_Icon_Edition_%28ZE7%29_sedan_%2820191117%29.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Toyota-Corolla-Under-20000-d586_spt379",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "TBD",
+      "interior": "Cloth",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4 (139 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Toyota Safety Sense",
+        "Honda Sensing Suite"
+      ]
+    }
   }
 ]
