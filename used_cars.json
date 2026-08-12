@@ -1571,5 +1571,38 @@
         "Honda Sensing Suite"
       ]
     }
+  },
+  {
+    "name": "2018 Honda Civic EX Hatchback",
+    "price": 17999,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 10
+    },
+    "estimated_mpg": "31 city / 40 hwy",
+    "mileage": "78,514 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2017_Honda_Civic_SR_VTEC_1.0_Front.jpg/250px-2017_Honda_Civic_SR_VTEC_1.0_Front.jpg",
+    "url": "https://www.hondaofstevenscreek.com/used/Honda/2018-Honda-Civic-EX-a63df250ac1809a22d742423b4226006.htm",
+    "dealer": "Honda of Stevens Creek",
+    "details": {
+      "exterior": "White Orchid Pearl",
+      "interior": "Black",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.5L Turbo I-4",
+      "fuel": "Gas",
+      "features": [
+        "Power moonroof",
+        "Backup camera",
+        "Apple CarPlay/Android Auto",
+        "Honda LaneWatch",
+        "Remote engine start",
+        "Bluetooth",
+        "Automatic climate control",
+        "Cruise control",
+        "Keyless entry/start",
+        "17-inch alloy wheels"
+      ]
+    }
   }
 ]
