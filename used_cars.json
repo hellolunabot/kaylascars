@@ -1604,5 +1604,77 @@
         "17-inch alloy wheels"
       ]
     }
+  },
+  {
+    "name": "2019 Mazda3 Sedan FWD",
+    "price": 16673,
+    "location": {
+      "city": "Walnut Creek, CA",
+      "distance_miles_from_95051": 41
+    },
+    "estimated_mpg": "26 city / 37 hwy",
+    "mileage": "55,590 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2019_Mazda3_Boston_Blue_Mica_front.jpg/250px-2019_Mazda3_Boston_Blue_Mica_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-MAZDA3-Under-20000-San-Jose-d214_spt379_L2938",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Silver",
+      "interior": "Black",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4 (186 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Lowest mileage Mazda3 found!"
+      ]
+    }
+  },
+  {
+    "name": "2015 Mazda3 i Touring Sedan",
+    "price": 14895,
+    "location": {
+      "city": "Hayward, CA",
+      "distance_miles_from_95051": 26
+    },
+    "estimated_mpg": "28 city / 37 hwy",
+    "mileage": "77,409 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda3_i_Sport_%28US%29_front.jpg/250px-2016_Mazda3_i_Sport_%28US%29_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-MAZDA3-Under-20000-San-Jose-d214_spt379_L2938",
+    "dealer": "S & R Motors",
+    "details": {
+      "exterior": "Red",
+      "interior": "Gray",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (155 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Just under 80k miles!"
+      ]
+    }
+  },
+  {
+    "name": "2013 Mazda3 i Touring Hatchback",
+    "price": 9903,
+    "location": {
+      "city": "Palo Alto, CA",
+      "distance_miles_from_95051": 15
+    },
+    "estimated_mpg": "25 city / 36 hwy",
+    "mileage": "68,336 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_Mazda3_i_Touring_%28US%29_front.jpg/250px-2014_Mazda3_i_Touring_%28US%29_front.jpg",
+    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-MAZDA3-Under-20000-San-Jose-d214_spt379_L2938",
+    "dealer": "CarGurus",
+    "details": {
+      "exterior": "Dolphin Gray Mica",
+      "interior": "Dune",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.0L I4 (155 hp)",
+      "fuel": "Gas",
+      "features": [
+        "Under $10K! Great first car price!"
+      ]
+    }
   }
 ]
