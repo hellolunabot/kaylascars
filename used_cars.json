@@ -1606,74 +1606,118 @@
     }
   },
   {
-    "name": "2019 Mazda3 Sedan FWD",
-    "price": 16673,
+    "name": "2020 Honda Civic Sport Sedan FWD",
+    "price": 19079,
     "location": {
-      "city": "Walnut Creek, CA",
-      "distance_miles_from_95051": 41
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 3
     },
-    "estimated_mpg": "26 city / 37 hwy",
-    "mileage": "55,590 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2019_Mazda3_Boston_Blue_Mica_front.jpg/250px-2019_Mazda3_Boston_Blue_Mica_front.jpg",
-    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-MAZDA3-Under-20000-San-Jose-d214_spt379_L2938",
-    "dealer": "CarGurus",
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "70,291 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.truecar.com/used-cars-for-sale/listing/19XFC2F85LE202323/2020-honda-civic/?position=3",
+    "dealer": "TrueCar marketplace",
     "details": {
-      "exterior": "Silver",
-      "interior": "Black",
-      "transmission": "6-Speed Automatic",
+      "exterior": "TBD",
+      "interior": "TBD",
+      "transmission": "CVT (Automatic)",
       "drivetrain": "FWD",
-      "engine": "2.5L I4 (186 hp)",
+      "engine": "TBD",
       "fuel": "Gas",
       "features": [
-        "Lowest mileage Mazda3 found!"
+        "Adaptive Cruise Control",
+        "Android Auto",
+        "Apple CarPlay",
+        "Backup Camera",
+        "Bluetooth",
+        "Lane Keep Assist",
+        "Premium Wheels",
+        "Remote Engine Start"
       ]
     }
   },
   {
-    "name": "2015 Mazda3 i Touring Sedan",
-    "price": 14895,
+    "name": "2020 Honda Civic LX Sedan FWD",
+    "price": 17998,
     "location": {
-      "city": "Hayward, CA",
-      "distance_miles_from_95051": 26
+      "city": "San Leandro, CA",
+      "distance_miles_from_95051": 18
     },
-    "estimated_mpg": "28 city / 37 hwy",
-    "mileage": "77,409 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/2016_Mazda3_i_Sport_%28US%29_front.jpg/250px-2016_Mazda3_i_Sport_%28US%29_front.jpg",
-    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-MAZDA3-Under-20000-San-Jose-d214_spt379_L2938",
-    "dealer": "S & R Motors",
+    "estimated_mpg": "30 city / 38 hwy",
+    "mileage": "77,218 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.truecar.com/used-cars-for-sale/listing/19XFC2F85LE202323/2020-honda-civic/",
+    "dealer": "TrueCar marketplace",
     "details": {
-      "exterior": "Red",
-      "interior": "Gray",
-      "transmission": "6-Speed Automatic",
+      "exterior": "TBD",
+      "interior": "TBD",
+      "transmission": "CVT (Automatic)",
       "drivetrain": "FWD",
-      "engine": "2.0L I4 (155 hp)",
+      "engine": "TBD",
       "fuel": "Gas",
       "features": [
-        "Just under 80k miles!"
+        "Backup Camera",
+        "Bluetooth",
+        "Apple CarPlay"
       ]
     }
   },
   {
-    "name": "2013 Mazda3 i Touring Hatchback",
-    "price": 9903,
+    "name": "2015 Honda Civic EX",
+    "price": 16498,
     "location": {
-      "city": "Palo Alto, CA",
-      "distance_miles_from_95051": 15
+      "city": "Dublin, CA",
+      "distance_miles_from_95051": 30
     },
-    "estimated_mpg": "25 city / 36 hwy",
-    "mileage": "68,336 mi",
-    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/2014_Mazda3_i_Touring_%28US%29_front.jpg/250px-2014_Mazda3_i_Touring_%28US%29_front.jpg",
-    "url": "https://www.cargurus.com/Cars/s-Used-Mazda-MAZDA3-Under-20000-San-Jose-d214_spt379_L2938",
-    "dealer": "CarGurus",
+    "estimated_mpg": "30 city / 39 hwy",
+    "mileage": "47,280 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg/250px-Honda_Civic_Limousine_1.5_VTEC_Turbo_Executive_CVT_%28X%29_%E2%80%93_f_26122020.jpg",
+    "url": "https://www.truecar.com/used-cars-for-sale/listings/honda/civic/price-below-20000/location-san-jose-ca/",
+    "dealer": "TrueCar marketplace",
     "details": {
-      "exterior": "Dolphin Gray Mica",
-      "interior": "Dune",
-      "transmission": "6-Speed Automatic",
+      "exterior": "TBD",
+      "interior": "TBD",
+      "transmission": "Automatic",
       "drivetrain": "FWD",
-      "engine": "2.0L I4 (155 hp)",
+      "engine": "TBD",
       "fuel": "Gas",
       "features": [
-        "Under $10K! Great first car price!"
+        "Backup Camera",
+        "Bluetooth",
+        "Apple CarPlay"
+      ]
+    }
+  },
+  {
+    "name": "2024 Mazda Mazda3 Select Sport Sedan Automatic FWD",
+    "price": 19546,
+    "location": {
+      "city": "Concord, CA",
+      "distance_miles_from_95051": 44
+    },
+    "estimated_mpg": "27 city / 37 hwy",
+    "mileage": "54,053 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/2021_Mazda_Mazda3_Selet_2.5_S_Automatic_Front.jpg/250px-2021_Mazda_Mazda3_Selet_2.5_S_Automatic_Front.jpg",
+    "url": "https://www.truecar.com/used-cars-for-sale/listing/3MZBPABM2RM427004/2024-mazda-mazda3/",
+    "dealer": "TrueCar marketplace (Acura of Concord)",
+    "details": {
+      "exterior": "TBD",
+      "interior": "TBD",
+      "transmission": "Automatic",
+      "drivetrain": "FWD",
+      "engine": "2.5L I4",
+      "fuel": "Gas",
+      "features": [
+        "Adaptive Cruise Control",
+        "Android Auto",
+        "Apple CarPlay",
+        "Backup Camera",
+        "Blind Spot System",
+        "Bluetooth",
+        "Lane Keep Assist",
+        "Multi-Zone Climate Control",
+        "Navigation",
+        "Remote Engine Start"
       ]
     }
   }
