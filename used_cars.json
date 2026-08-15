@@ -1720,5 +1720,29 @@
         "Remote Engine Start"
       ]
     }
+  },
+  {
+    "name": "2020 Toyota Corolla LE",
+    "price": 19590,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 5
+    },
+    "estimated_mpg": "31 city / 40 hwy",
+    "mileage": "56,548 mi",
+    "photo_url": "https://content.homenetiol.com/2000157/2065512/0x0/5d6d57ffe2674d80aedf5f40f3eaaedd.jpg",
+    "url": "https://www.capitoltoyota.com/viewdetails/used/jtdepraexlj092233/2020-toyota-corolla-4dr-car?type=finance",
+    "dealer": "Capitol Toyota",
+    "details": {
+      "exterior": "Celestite",
+      "interior": "Black",
+      "transmission": "CVT",
+      "drivetrain": "FWD",
+      "engine": "1.8L I4",
+      "fuel": "Gas",
+      "features": [
+        "Carfax One Owner"
+      ]
+    }
   }
 ]
