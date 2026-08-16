@@ -1744,5 +1744,79 @@
         "Carfax One Owner"
       ]
     }
+  },
+  {
+    "name": "2017 Lincoln MKX Select",
+    "price": 16413,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 3
+    },
+    "estimated_mpg": "16 city / 23 hwy",
+    "mileage": "49,484 mi",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/2017_Lincoln_MKX_Reserve_AWD_Sport_Utility.jpg/250px-2017_Lincoln_MKX_Reserve_AWD_Sport_Utility.jpg",
+    "url": "https://www.stevenscreekmazda.com/inventory/used-2017-lincoln-mkx-select-awd-sport-utility-2lmpj8kr5hbl35299/",
+    "dealer": "Stevens Creek Mazda",
+    "details": {
+      "exterior": "White Gold Metallic",
+      "interior": "Cappuccino",
+      "transmission": "6-Speed Automatic",
+      "drivetrain": "AWD",
+      "engine": "3.7L V6",
+      "fuel": "Gas",
+      "vin": "2LMPJ8KR5HBL35299",
+      "features": [
+        "Fresh oil change",
+        "New battery",
+        "Clean title",
+        "History report"
+      ]
+    }
+  },
+  {
+    "name": "2022 Ford Escape Hybrid SE",
+    "price": 18998,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 3
+    },
+    "estimated_mpg": "Hybrid",
+    "mileage": "N/A",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/2020_Ford_Escape_SE_FWD_%28Starline%29.jpg/250px-2020_Ford_Escape_SE_FWD_%28Starline%29.jpg",
+    "url": "https://www.stevenscreekmazda.com/inventory/used-2022-ford-escape-hybrid-se-awd-sport-utility-1fmcu9bz0nua61135/",
+    "dealer": "Stevens Creek Mazda",
+    "details": {
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "fuel": "Hybrid",
+      "vin": "1FMCU9BZ0NUA61135",
+      "features": [
+        "Hybrid powertrain",
+        "AWD"
+      ]
+    }
+  },
+  {
+    "name": "2020 Mazda CX-30 Premium",
+    "price": 17598,
+    "location": {
+      "city": "San Jose, CA",
+      "distance_miles_from_95051": 3
+    },
+    "estimated_mpg": "N/A",
+    "mileage": "N/A",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2021_Mazda_CX-30_Groove_AWD.jpg/250px-2021_Mazda_CX-30_Groove_AWD.jpg",
+    "url": "https://www.stevenscreekmazda.com/inventory/used-2020-mazda-cx-30-premium-awd-sport-utility-3mvdmbem8lm123350/",
+    "dealer": "Stevens Creek Mazda",
+    "details": {
+      "transmission": "Automatic",
+      "drivetrain": "AWD",
+      "fuel": "Gas",
+      "vin": "3MVDMBEM8LM123350",
+      "features": [
+        "Premium trim",
+        "AWD"
+      ]
+    }
   }
 ]
